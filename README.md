@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelaziz Mahdy</h1>
-<h3 align="center">A passionate Mobile application developer /h3>
+<h3 align="center">A passionate Mobile application developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zezo357&label=Profile%20views&color=0e75b6&style=flat" alt="zezo357" /> </p>
 

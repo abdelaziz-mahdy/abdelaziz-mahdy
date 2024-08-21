@@ -35,7 +35,7 @@ jobs:
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
-          plugin_activity_visibility: public
+          plugin_activity_visibility: public # all
 
           plugin_followup: yes
           plugin_followup_sections: repositories
@@ -52,8 +52,9 @@ jobs:
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
+          plugin_languages_sections: most-used,recently-used
           plugin_languages_threshold: 0%
+          plugin_languages_indepth: yes
 
           plugin_reactions: yes
           plugin_reactions_details: count
@@ -65,7 +66,7 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 38
           plugin_people_types: followers, following
-          
+
           plugin_stars: yes
           plugin_stars_limit: 4
 # Again, nothing is wrong here. It takes time to run the actions.

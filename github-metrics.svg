@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1993 issue comments
+                            1994 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.05m added, 2.76m removed
+                                    3.93m added, 2.91m removed
                                 </div>
                             </section>
                             <section>
@@ -420,7 +420,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.37mb of code in 1194 edited files across 445 commits over last 14 days</small>
+                <small>estimation from 1.37mb of code in 1191 edited files across 443 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -2525,7 +2525,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prabhuc94/desktop_screenshot</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This plugin allows Flutter desktop apps to take screenshots.</div>
@@ -2808,6 +2808,23 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by abdelaziz-mahdy in <span class="repo">media-kit/media-kit</span></div>
+                                    <div class="comment">It's a necessity, if you close the screen and return it won't display anything due to the surface being destroyed and it won't benefit from the impeller</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#707 Android impller support </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by abdelaziz-mahdy in <span class="repo">media-kit/media-kit</span></div>
                                     <div class="comment">I don't think there is a problem doing so, but video player package still doesn't support it yet</div>
                                 </div>
                             </section>
@@ -2872,24 +2889,6 @@ i like the idea of looping certain sections of the video. have you made any cust
                                         <div class="sha">#a27bd3c</div>
                                         <div class="message">remove dep on flutter</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#6 Virtual dir</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by abdelaziz-mahdy in <span class="repo">abdelaziz-mahdy/ftp_server</span></div>
-                                    <div class="comment">In macOS Finder, some operations related to the server, such as renaming, deleting, and uploading files (drag and drop or paste), may not be displayed. , i didnt try to connect to ftp server using finder, should it show these options? if thats the case will need to check what commands need to added 
-and for | i think there is a need to replace all the special chars to be safe on all platforms</div>
                                 </div>
                             </section>
                         </div>
@@ -3280,7 +3279,7 @@ and for | i think there is a need to replace all the special chars to be safe on
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 185k out of 209m repositories</span>
+                                    <span class="gh">ranked 185k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 70 times</div>
                             </div>
@@ -3370,7 +3369,7 @@ and for | i think there is a need to replace all the special chars to be safe on
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 281k out of 209m repositories</span>
+                                    <span class="gh">ranked 281k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 140 stars</div>
                             </div>
@@ -3594,7 +3593,7 @@ and for | i think there is a need to replace all the special chars to be safe on
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2024, 10:09:00  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Aug 2024, 11:08:35  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

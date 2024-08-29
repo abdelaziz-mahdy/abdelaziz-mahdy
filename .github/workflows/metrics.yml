@@ -42,7 +42,7 @@ jobs:
 
           plugin_followup: yes
           plugin_followup_sections: user # repositories
-          plugin_followup_indepth: yes
+          # plugin_followup_indepth: yes
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -58,7 +58,7 @@ jobs:
           plugin_languages_recent_load: 500
           plugin_languages_sections: most-used,recently-used
           plugin_languages_threshold: 0%
-          plugin_languages_indepth: false
+          # plugin_languages_indepth: false
 
           plugin_reactions: yes
           plugin_reactions_details: count

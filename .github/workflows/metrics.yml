@@ -73,5 +73,10 @@ jobs:
 
           plugin_stars: yes
           plugin_stars_limit: 4
+
+          plugin_leetcode: yes
+          plugin_leetcode_user: abdelaziz-mahdy
+          plugin_leetcode_sections: solved, skills #, recent
+
 # Again, nothing is wrong here. It takes time to run the actions.
 

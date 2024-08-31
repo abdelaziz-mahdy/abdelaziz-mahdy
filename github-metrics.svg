@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3290" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3313" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            2020 issue comments
+                            2021 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.38m added, 2.96m removed
+                                    4.15m added, 2.78m removed
                                 </div>
                             </section>
                             <section>
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 888kb of code in 788 edited files across 420 commits over last 12 days</small>
+                <small>estimation from 887kb of code in 785 edited files across 418 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.7709492150905" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="340.7709492150905" y="0" width="49.51206064089909" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="390.2830098559896" y="0" width="29.406579262702934" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="419.68958911869254" y="0" width="13.218891456745764" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="432.90848057543826" y="0" width="12.057892417038579" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="444.96637299247686" y="0" width="10.143708741346053" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.1100817338229" y="0" width="2.7421471342884867" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="457.85222886811135" y="0" width="2.1477711318885926" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.6621498987669" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="340.6621498987669" y="0" width="49.5572415620927" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="390.21939146085964" y="0" width="29.43341345871586" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="419.6528049195755" y="0" width="13.230954006464827" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="432.8837589260403" y="0" width="12.068895527795902" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="444.9526544538362" y="0" width="10.152965114426092" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.1056195682623" y="0" width="2.7446494081177693" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="457.85026897638005" y="0" width="2.149731023619934" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2780,6 +2780,30 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by abdelaziz-mahdy in <span class="repo">aakashkondhalkar/external_path</span></div>
+                                    <div class="comment">
+                                        <i>I Have removed this line.
+
+REQUIRED: Minimum flutter sdk 3.24.0
+
+Actually the example folder requires Flutter SDK version 3.24.0 or higher to run.</i>
+                                        It should not require that, maybe that's because I am running that version it got changed by mistake i will fix it
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#12 gradle 8 fixes</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by abdelaziz-mahdy in <span class="repo">aakashkondhalkar/external_path</span></div>
                                     <div class="comment">btw i just checked the release in change log you added flutter version requirement but its not true i think, if its required the sdk version needs to be updated too in this line 
 https://github.com/aakashkondhalkar/external_path/blob/2d45bdef2bbc293d454e37c5dc624db0a2abec96/pubspec.yaml#L8</div>
                                 </div>
@@ -2835,26 +2859,6 @@ https://github.com/aakashkondhalkar/external_path/blob/2d45bdef2bbc293d454e37c5d
                                     <div class="commit">
                                         <div class="sha">#a1c37dc</div>
                                         <div class="message">increase version</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">abdelaziz-mahdy/universal_video_controls</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#14a87c8</div>
-                                        <div class="message">update deps</div>
                                     </div>
                                 </div>
                             </section>
@@ -3316,7 +3320,7 @@ https://github.com/aakashkondhalkar/external_path/blob/2d45bdef2bbc293d454e37c5d
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 182k out of 213m repositories</span>
+                                    <span class="gh">ranked 182k out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 71 times</div>
                             </div>
@@ -3406,7 +3410,7 @@ https://github.com/aakashkondhalkar/external_path/blob/2d45bdef2bbc293d454e37c5d
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 278k out of 213m repositories</span>
+                                    <span class="gh">ranked 278k out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 142 stars</div>
                             </div>
@@ -3630,7 +3634,7 @@ https://github.com/aakashkondhalkar/external_path/blob/2d45bdef2bbc293d454e37c5d
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Aug 2024, 13:11:58  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Aug 2024, 14:07:15  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3282" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3305" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.78m added, 2.74m removed
+                                    1.40m added, 219k removed
                                 </div>
                             </section>
                             <section>
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 903kb of code in 808 edited files across 436 commits over last 14 days</small>
+                <small>estimation from 875kb of code in 792 edited files across 438 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="350.788978821611" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="350.788978821611" y="0" width="40.83059918863297" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="391.619578010244" y="0" width="28.842815719743047" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="420.46239372998707" y="0" width="12.965467588056994" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="433.42786131804405" y="0" width="11.826726456219713" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="445.25458777426377" y="0" width="9.949240247486669" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.20382802175044" y="0" width="2.6895764979715824" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="457.893404519722" y="0" width="2.106595480277995" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="348.4584674035289" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="348.4584674035289" y="0" width="42.19947606443524" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="390.6579434679642" y="0" width="29.809793042054153" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="420.4677365100183" y="0" width="13.40014474484474" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="433.86788125486305" y="0" width="12.028636374447439" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="445.8965176293105" y="0" width="10.282796089850534" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="456.17931371916103" y="0" width="2.1772206951150315" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="458.3565344142761" y="0" width="1.643465585723945" height="8" fill="#6866fb"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -443,15 +443,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Ruby
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#6866fb" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Objective-C++
                     </div>
                 </div>
             </section>
@@ -2787,6 +2787,23 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#107 Issue: Lags with `ReorderableBuilder.builder`</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by karvulf in <span class="repo">karvulf/flutter-reorderable-grid-view</span></div>
+                                    <div class="comment">I hope you're doing well. I wanted to check if there have been any updates on this. I understand if you're busy, but I would appreciate knowing if it's possible.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#107 android seek hangs </span>
                                     </div>
                                 </div>
@@ -2852,26 +2869,6 @@ in some cases frame is broken, will try to find logs for it (only on android i t
                                     <div class="commit">
                                         <div class="sha">#208e1ab</div>
                                         <div class="message">Merge branch 'main' of https://github.com/zezo357/anime_mapping</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">abdelaziz-mahdy/anime_mapping</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#19e62c5</div>
-                                        <div class="message">fix: commits author for workflows</div>
                                     </div>
                                 </div>
                             </section>
@@ -3142,7 +3139,7 @@ in some cases frame is broken, will try to find logs for it (only on android i t
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 219k out of 142m users</span>
+                                    <span class="gh">ranked 219k out of 143m users</span>
                                 </div>
                                 <div class="text">Published 94 public repositories</div>
                             </div>
@@ -3157,7 +3154,7 @@ in some cases frame is broken, will try to find logs for it (only on android i t
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.357973990417534 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.442847364818626 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3333,7 +3330,7 @@ in some cases frame is broken, will try to find logs for it (only on android i t
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 182k out of 213m repositories</span>
+                                    <span class="gh">ranked 182k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 71 times</div>
                             </div>
@@ -3385,7 +3382,7 @@ in some cases frame is broken, will try to find logs for it (only on android i t
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 367k out of 142m users</span>
+                                    <span class="gh">ranked 367k out of 143m users</span>
                                 </div>
                                 <div class="text">Followed by 38 users</div>
                             </div>
@@ -3423,7 +3420,7 @@ in some cases frame is broken, will try to find logs for it (only on android i t
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 279k out of 213m repositories</span>
+                                    <span class="gh">ranked 279k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 142 stars</div>
                             </div>
@@ -3647,7 +3644,7 @@ in some cases frame is broken, will try to find logs for it (only on android i t
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Sept 2024, 17:07:41  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Sept 2024, 18:11:14  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

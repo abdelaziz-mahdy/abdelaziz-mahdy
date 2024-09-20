@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3182" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3287" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            16808 Commits
+                            14668 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            2052 issue comments
+                            2054 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.78m added, 2.70m removed
+                                    1.12m added, 65.6k removed
                                 </div>
                             </section>
                             <section>
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 798kb of code in 757 edited files across 400 commits over last 28 days</small>
+                <small>estimation from 792kb of code in 754 edited files across 395 commits over last 28 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="357.7324699559255" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="357.7324699559255" y="0" width="38.322561815266006" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="396.0550317711915" y="0" width="27.240633591922215" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="423.2956653631137" y="0" width="12.245252174615027" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="435.5409175377287" y="0" width="11.07621515298764" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="446.61713269071635" y="0" width="9.396572468279263" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="456.0137051589956" y="0" width="1.9967180894747545" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="458.0104232484704" y="0" width="1.989576751529566" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="356.8068124675927" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="356.8068124675927" y="0" width="38.669432090720115" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="395.4762445583128" y="0" width="27.487197642705752" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="422.96344220101855" y="0" width="12.356088031969472" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="435.31953023298803" y="0" width="11.176469666754913" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="446.4959998997429" y="0" width="9.481623976477186" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.9776238762201" y="0" width="2.0147910501770947" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="457.99241492639715" y="0" width="2.0075850736027845" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2491,7 +2491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kodjodevf/mangayomi</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free and open source application for reading manga, watching anime and streaming torrent available on Android, iOS, macOS, Linux and Windows</div>
@@ -2771,6 +2771,49 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#5 Playback stops when switching to fullscreen</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by kbublitz in <span class="repo">abdelaziz-mahdy/universal_video_controls</span></div>
+                                    <div class="comment">What platform are you testing on, since for me it is still playing correctly</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#2304 [experimental-feature] third party lib, doesnt throw errors nor generate files</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by abdelaziz-mahdy in <span class="repo">fzyzcjy/flutter_rust_bridge</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            Looked at the logs. Seems
+                                            <code>[2024-09-19T23:27:04.134Z DEBUG /Users/AbdelazizMahdy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/flutter_rust_bridge_codegen-2.4.0/src/library/codegen/parser/hir/tree/transformer/pub_use_transformer.rs:155] transform_module_by_pub_use_single skip `PubUseInfo { namespace: Namespace { joined_path: "polars_core::export" }, name_filter: None }` since cannot find mod</code>
+                                            i.e. the polars package is almost empty and only exports polars_core. On the other hand, frb currently has not implemented such complex cross-multiple-third-party-crate-import things.
+                                        </i>
+                                        Oh okay, guess I will wait for it to get fixed when you have time to do so, 
+Or create my own API around it 
+Thank you for the awesome package and looking forward to scanning to be improved
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#2304 third party lib, doesnt throw errors nor generate files</span>
                                     </div>
                                 </div>
@@ -2808,40 +2851,6 @@ i would love to have the auto scan working in general since that will make migra
                       repository
                                         <span class="repo">abdelaziz-mahdy/polars_dart</span>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#2304 third party lib, doesnt throw errors nor generate files</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">fzyzcjy/flutter_rust_bridge</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#955 Updating the media kit library to last version, generate a black screen in android.</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by ksanchez9306 in <span class="repo">media-kit/media-kit</span></div>
-                                    <div class="comment">glad to hear it got fixed</div>
                                 </div>
                             </section>
                         </div>
@@ -3302,7 +3311,7 @@ i would love to have the auto scan working in general since that will make migra
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 183k out of 216m repositories</span>
+                                    <span class="gh">ranked 183k out of 188m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 71 times</div>
                             </div>
@@ -3392,7 +3401,7 @@ i would love to have the auto scan working in general since that will make migra
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 279k out of 216m repositories</span>
+                                    <span class="gh">ranked 279k out of 188m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 143 stars</div>
                             </div>
@@ -3616,7 +3625,7 @@ i would love to have the auto scan working in general since that will make migra
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2024, 06:12:59  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Sept 2024, 07:10:01  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

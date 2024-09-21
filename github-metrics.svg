@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3608" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3242" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.22m added, 2.88m removed
+                                    4.01m added, 2.79m removed
                                 </div>
                             </section>
                             <section>
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 831kb of code in 761 edited files across 398 commits over last 30 days</small>
+                <small>estimation from 869kb of code in 790 edited files across 405 commits over last 30 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.5502445003064" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="387.5502445003064" y="0" width="27.430777023224405" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="414.98102152353084" y="0" width="12.330725746945308" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="427.31174727047613" y="0" width="11.153528683450268" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="438.4652759539264" y="0" width="9.4621618579522" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="447.9274378118786" y="0" width="7.75353618729599" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.6809739991745" y="0" width="2.3083705399017" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="457.9893445390762" y="0" width="2.0106554609237235" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.4578128587474" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="388.4578128587474" y="0" width="27.220898412048328" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="415.6787112707957" y="0" width="12.236380785722707" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="427.9150920565184" y="0" width="11.068190703129364" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="438.98328275964775" y="0" width="9.389764878902396" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="448.37304763855013" y="0" width="7.340972131727387" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.7140197702775" y="0" width="2.290708714187315" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="458.0047284844648" y="0" width="1.9952715155351193" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2772,33 +2772,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#5 Playback stops when switching to fullscreen</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">abdelaziz-mahdy/universal_video_controls</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by kbublitz in <span class="repo">abdelaziz-mahdy/universal_video_controls</span></div>
-                                    <div class="comment">also i would like to note, this is a problem only on web</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#5 Playback stops when switching to fullscreen</span>
+                                    <div>on branch <span class="code">wasm</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f117473</div>
+                                        <div class="message">improve git ignore and remove not needed files</div>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by kbublitz in <span class="repo">abdelaziz-mahdy/universal_video_controls</span></div>
-                                    <div class="comment">i did a commit it should fix the issue, but can you try it since the issue doesnt happen for me :( so i am not sure</div>
                                 </div>
                             </section>
                         </div>
@@ -2814,10 +2800,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">wasm</span></div>
                                     <div class="commit">
-                                        <div class="sha">#978f0ce</div>
-                                        <div class="message">fix race condition</div>
+                                        <div class="sha">#4d73fd4</div>
+                                        <div class="message">improve wasm build and add deployment for wasm</div>
                                     </div>
                                 </div>
                             </section>
@@ -2829,97 +2815,35 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 110 commits in
-                                        <span class="repo">abdelaziz-mahdy/opencv_dart</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">abdelaziz-mahdy/universal_video_controls</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">wasm</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ee4b361</div>
-                                        <div class="message">Merge pull request #187 from rainyl/fix-android-vec
-
-fix #177</div>
+                                        <div class="sha">#6eb4747</div>
+                                        <div class="message">fix wasm build</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#cae900e</div>
-                                        <div class="message">fix android build</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">abdelaziz-mahdy/universal_video_controls</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">wasm</span></div>
                                     <div class="commit">
-                                        <div class="sha">#58c4ba0</div>
-                                        <div class="message">fix ndk in conan</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b07c449</div>
-                                        <div class="message">use ndk from conan</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6f6934</div>
-                                        <div class="message">bump version to v1.2.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a40dd9f</div>
-                                        <div class="message">Merge pull request #186 from abdelaziz-mahdy/improve-tests
-
-added more tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf40b6b</div>
-                                        <div class="message">dart format ✅</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27b3b54</div>
-                                        <div class="message">fix mat_type</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ba6e97</div>
-                                        <div class="message">Merge branch 'main' into improve-tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc5cd46</div>
-                                        <div class="message">revert mattype changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#192fa06</div>
-                                        <div class="message">Merge pull request #185 from rainyl/more-mat-methods
-
-add more methods to Mat, more test, add cv.sqrt, cv.sum</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d26bed9</div>
-                                        <div class="message">Merge branch 'improve-tests' of https://github.com/abdelaziz-mahdy/opencv_dart into improve-tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52eda64</div>
-                                        <div class="message">added to string</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c07aa7</div>
-                                        <div class="message">dart format ✅</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f79926</div>
-                                        <div class="message">Merge branch 'improve-tests' of https://github.com/abdelaziz-mahdy/opencv_dart into improve-tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#643620f</div>
-                                        <div class="message">fix tests errors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34b921b</div>
-                                        <div class="message">dart format ✅</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55fc976</div>
-                                        <div class="message">added more tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4f3887</div>
-                                        <div class="message">add Mat.adjustROI. Mat.locateROI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c51d635</div>
-                                        <div class="message">add more methods to Mat, more test, add cv.sqrt, cv.sum</div>
+                                        <div class="sha">#390292c</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/abdelaziz-mahdy/universal_video_controls into wasm</div>
                                     </div>
                                 </div>
                             </section>
@@ -2932,12 +2856,12 @@ add more methods to Mat, more test, add cv.sqrt, cv.sum</div>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#247 fix: [iOS] opencv_dart framework is missing MinimumOSVersion #246</span>
+                                        <span class="issue">#5 Playback stops when switching to fullscreen</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by rainyl in <span class="repo">rainyl/opencv_dart</span></div>
-                                    <div class="comment">incase of macos and ios stuff let me know if you had a problem that needs tests, i can try to test it out for you</div>
+                                    <div>opened by kbublitz in <span class="repo">abdelaziz-mahdy/universal_video_controls</span></div>
+                                    <div class="comment">also i would like to note, this is a problem only on web</div>
                                 </div>
                             </section>
                         </div>
@@ -3207,7 +3131,7 @@ add more methods to Mat, more test, add cv.sqrt, cv.sum</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 212k out of 143m users</span>
+                                    <span class="gh">ranked 212k out of 145m users</span>
                                 </div>
                                 <div class="text">Published 96 public repositories</div>
                             </div>
@@ -3398,7 +3322,7 @@ add more methods to Mat, more test, add cv.sqrt, cv.sum</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 183k out of 207m repositories</span>
+                                    <span class="gh">ranked 183k out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 71 times</div>
                             </div>
@@ -3450,7 +3374,7 @@ add more methods to Mat, more test, add cv.sqrt, cv.sum</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 360k out of 143m users</span>
+                                    <span class="gh">ranked 360k out of 145m users</span>
                                 </div>
                                 <div class="text">Followed by 39 users</div>
                             </div>
@@ -3488,7 +3412,7 @@ add more methods to Mat, more test, add cv.sqrt, cv.sum</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 279k out of 207m repositories</span>
+                                    <span class="gh">ranked 279k out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 143 stars</div>
                             </div>
@@ -3712,7 +3636,7 @@ add more methods to Mat, more test, add cv.sqrt, cv.sum</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Sept 2024, 13:12:58  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Sept 2024, 14:07:11  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

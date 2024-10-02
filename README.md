@@ -12,9 +12,11 @@
 
 <h3>About Me</h3>
 
-<p>I am a passionate Mobile Application Developer with deep expertise in Flutter and Dart, dedicated to crafting seamless, user-centric mobile experiences. My strong proficiency in integrating REST APIs ensures efficient and robust backend communication. As a proactive contributor to the open-source community, I am committed to adopting and promoting best practices in mobile architecture and security, consistently delivering high-quality, reliable software.</p>
+I started my journey as a Mobile Application Developer with a focus on Flutter and Dart, drawn by the potential to create user-centric mobile experiences. Early on, I mastered integrating REST APIs to enable seamless backend communication, which led me to explore backend development to handle more complex systems and functionalities.
 
-<p>Throughout my career, I have successfully led the end-to-end development and deployment of mobile applications, always prioritizing performance optimization and exceptional user experience. My work has driven significant improvements in backend performance and streamlined workflows, making a tangible impact on productivity and application quality.</p>
+As I progressed, I delved into DevOps to automate tasks and streamline deployment using GitHub Actions, enhancing project efficiency. My involvement in backend and DevOps broadened my capabilities, allowing me to manage entire development pipelines and optimize performance.
+
+I also became an active open-source contributor, adopting best practices in architecture and security. Leading end-to-end app development, I prioritized performance optimization and exceptional user experience. These efforts have driven backend improvements and streamlined workflows, significantly impacting productivity and software quality.
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abdelaziz-mahdy&label=Profile%20views&color=0e75b6&style=flat" alt="abdelaziz-mahdy" /> 

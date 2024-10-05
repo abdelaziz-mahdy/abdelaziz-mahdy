@@ -1,17 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abdelaziz Mahdy</h1>
-<h3 align="center">Mobile Application Developer (Flutter)</h3>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/abdelaziz-mahdy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelaziz-mahdy" height="30" width="40" />
-  </a>
-</p>
-
+<h1 align="center">Hi 👋, I'm Abdelaziz Mahdy</h1> <h3 align="center">Software Engineer (Cross-Platform Development)</h3>
+<h2 align="center">🔍 Open to Work: Software Engineer (Cross-Platform Development)</h2> <p align="center">I am actively seeking new opportunities as a Software Engineer with expertise in cross-platform mobile development using Flutter. I am open to full-time, freelance, or remote roles where I can contribute to building scalable, efficient software solutions. Let’s connect!</p>
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/abdelaziz-mahdy" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelaziz-mahdy" height="30" width="40" /> </a> </p>
 <h3>About Me</h3>
-
 I started my journey as a Mobile Application Developer with a focus on Flutter and Dart, drawn by the potential to create user-centric mobile experiences. Early on, I mastered integrating REST APIs to enable seamless backend communication, which led me to explore backend development to handle more complex systems and functionalities.
 
 As I progressed, I delved into DevOps to automate tasks and streamline deployment using GitHub Actions, enhancing project efficiency. My involvement in backend and DevOps broadened my capabilities, allowing me to manage entire development pipelines and optimize performance.
@@ -31,9 +21,6 @@ I also became an active open-source contributor, adopting best practices in arch
   </a> 
 </p>
 
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelaziz-mahdy&show_icons=true&locale=en" alt="abdelaziz-mahdy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaziz-mahdy&" alt="abdelaziz-mahdy" /></p>
-

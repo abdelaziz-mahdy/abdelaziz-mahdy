@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3259" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3275" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.84m added, 2.73m removed
+                                    3.96m added, 2.71m removed
                                 </div>
                             </section>
                             <section>
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 509kb of code in 423 edited files across 198 commits over last 30 days</small>
+                <small>estimation from 510kb of code in 430 edited files across 205 commits over last 30 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.84610565062457" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="383.84610565062457" y="0" width="41.873203586952265" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="425.71930923757685" y="0" width="14.799545757136706" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="440.5188549947136" y="0" width="14.064612131417158" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="454.58346712613076" y="0" width="2.3110780436229783" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="456.8945451697537" y="0" width="1.3401730821944629" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="458.23471825194815" y="0" width="0.9763088851470415" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="459.2110271370952" y="0" width="0.7889728629048047" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="384.19873868676865" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="384.19873868676865" y="0" width="41.67930838251" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="425.87804706927864" y="0" width="14.731015988587375" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="440.609063057866" y="0" width="13.999485496456943" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="454.608548554323" y="0" width="2.30037652304742" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="456.90892507737044" y="0" width="1.333967368002557" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="458.242892445373" y="0" width="0.9717880557222929" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="459.2146805010953" y="0" width="0.7853194989047311" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2763,48 +2763,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9b18380</div>
-                                        <div class="message">added todo to fix race condition</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">abdelaziz-mahdy/ftp_server</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fba1441</div>
-                                        <div class="message">improving connection</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">abdelaziz-mahdy/ftp_server</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6a92b90</div>
-                                        <div class="message">fix connection ip</div>
+                                        <div class="sha">#a909b9e</div>
+                                        <div class="message">fix windows test</div>
                                     </div>
                                 </div>
                             </section>
@@ -2822,10 +2782,11 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by Chaaang in <span class="repo">abdelaziz-mahdy/ftp_server</span></div>
-                                    <div class="comment">macos to macos filezila works
-macos to windows filezila works
-android to windows filezila doesnt work (but because of a different error than the one you mentioned )
-so i think it has something to do with username or password did it have any weird chars? like ones that outside of utf8?</div>
+                                    <div class="comment">
+                                        i fixed all of the problems related to filezila, but your problem didnt happen to me, so i added more details about the log of the error 
+check with the last version
+                                        <code>ftp_server: ^1.0.3</code>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2843,8 +2804,52 @@ so i think it has something to do with username or password did it have any weir
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b9be8c1</div>
-                                        <div class="message">formatting</div>
+                                        <div class="sha">#a78d81b</div>
+                                        <div class="message">fix utf8 encoding</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">abdelaziz-mahdy/ftp_server</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4ece7f7</div>
+                                        <div class="message">update version</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b04f5c</div>
+                                        <div class="message">wait for the datasocket before running the transfer</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">abdelaziz-mahdy/ftp_server</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9b18380</div>
+                                        <div class="message">added todo to fix race condition</div>
                                     </div>
                                 </div>
                             </section>
@@ -3306,7 +3311,7 @@ so i think it has something to do with username or password did it have any weir
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 184k out of 218m repositories</span>
+                                    <span class="gh">ranked 184k out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 71 times</div>
                             </div>
@@ -3396,7 +3401,7 @@ so i think it has something to do with username or password did it have any weir
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 282k out of 218m repositories</span>
+                                    <span class="gh">ranked 282k out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 142 stars</div>
                             </div>
@@ -3620,7 +3625,7 @@ so i think it has something to do with username or password did it have any weir
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Oct 2024, 03:18:07  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Oct 2024, 04:11:22  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3242" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3225" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.04m added, 77k removed
+                                    3.95m added, 2.71m removed
                                 </div>
                             </section>
                             <section>
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 509kb of code in 425 edited files across 201 commits over last 29 days</small>
+                <small>estimation from 522kb of code in 432 edited files across 205 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="384.1685903234863" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="384.1685903234863" y="0" width="41.695885454035" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="425.86447577752125" y="0" width="14.736874941510436" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="440.6013507190317" y="0" width="14.005053498455874" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="454.6064042174876" y="0" width="2.3012914496053902" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="456.907695667093" y="0" width="1.3344979255700782" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="458.24219359266306" y="0" width="0.9721745640577721" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="459.21436815672087" y="0" width="0.785631843279159" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.2160499598003" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="387.2160499598003" y="0" width="39.987136099321276" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="427.2031860591216" y="0" width="14.132939438700147" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="441.3361254978217" y="0" width="13.431108950507639" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="454.76723444832936" y="0" width="2.2069816577230146" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="456.9742161060524" y="0" width="1.2798085372922237" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="458.2540246433446" y="0" width="0.9925396855075446" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="459.2465643288522" y="0" width="0.7534356711478414" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2758,6 +2758,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">abdelaziz-mahdy/ftp_server</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ftps</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#535f4f8</div>
+                                        <div class="message">main logic for handling ftps (still handshake errors)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -2827,30 +2847,6 @@ check with the last version
                                     <div class="commit">
                                         <div class="sha">#a78d81b</div>
                                         <div class="message">fix utf8 encoding</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">abdelaziz-mahdy/ftp_server</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4ece7f7</div>
-                                        <div class="message">update version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b04f5c</div>
-                                        <div class="message">wait for the datasocket before running the transfer</div>
                                     </div>
                                 </div>
                             </section>
@@ -3312,7 +3308,7 @@ check with the last version
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 184k out of 212m repositories</span>
+                                    <span class="gh">ranked 184k out of 216m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 71 times</div>
                             </div>
@@ -3402,7 +3398,7 @@ check with the last version
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 282k out of 212m repositories</span>
+                                    <span class="gh">ranked 282k out of 216m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 142 stars</div>
                             </div>
@@ -3626,7 +3622,7 @@ check with the last version
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2024, 06:13:44  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2024, 07:09:59  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

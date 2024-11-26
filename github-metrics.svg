@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.70m added, 2.69m removed
+                                    325k added, 33.9k removed
                                 </div>
                             </section>
                             <section>
@@ -389,20 +389,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.14mb of code in 648 edited files across 164 commits over last 30 days</small>
+                <small>estimation from 243kb of code in 192 edited files across 142 commits over last 30 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="437.54654014715936" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="437.54654014715936" y="0" width="8.165735193598971" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="445.7122753407583" y="0" width="4.656581808284595" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="450.3688571490429" y="0" width="4.613188668916223" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="454.98204581795915" y="0" width="1.9192572133748604" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="456.901303031334" y="0" width="1.7207869529850954" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.6220899843191" y="0" width="1.28827828518231" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="459.9103682695014" y="0" width="0.08963173049860355" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.35153222965832" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="190.35153222965832" y="0" width="112.22120464952448" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="302.5727368791828" y="0" width="78.38957379358929" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="380.9623106727721" y="0" width="47.15040507220852" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="428.1127157449806" y="0" width="26.767171539274393" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.879887284255" y="0" width="5.120112715744981" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -413,27 +411,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CMake
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Makefile
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Ruby
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -449,9 +429,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Kotlin
+                        Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CMake
                     </div>
                 </div>
             </section>
@@ -2610,7 +2596,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        228
+                                        229
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3290,7 +3276,7 @@ But sadly I don't know about the liveness</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 186k out of 185m repositories</span>
+                                    <span class="gh">ranked 186k out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 71 times</div>
                             </div>
@@ -3380,7 +3366,7 @@ But sadly I don't know about the liveness</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 275k out of 185m repositories</span>
+                                    <span class="gh">ranked 275k out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 150 stars</div>
                             </div>
@@ -3604,7 +3590,7 @@ But sadly I don't know about the liveness</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2024, 15:10:24  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2024, 16:12:03  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

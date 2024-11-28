@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    410k added, 45.6k removed
+                                    216k added, 200k removed
                                 </div>
                             </section>
                             <section>
@@ -389,19 +389,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 180kb of code in 190 edited files across 113 commits over last 30 days</small>
+                <small>estimation from 153kb of code in 150 edited files across 105 commits over last 30 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.3891248937978" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="196.3891248937978" y="0" width="120.15050370190556" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="316.53962859570333" y="0" width="67.52882631387304" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="384.0684549095764" y="0" width="40.617793421531736" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="424.6862483311081" y="0" width="26.65978880932152" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="451.34603714042964" y="0" width="4.41072945745843" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="455.7567665978881" y="0" width="4.2432334021119065" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="201.8070209092653" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="201.8070209092653" y="0" width="126.59632968859901" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="328.4033505978643" y="0" width="71.15160815908946" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="399.5549587569538" y="0" width="28.090031331926596" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="427.6449900888804" y="0" width="25.531044184410767" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="453.1760342732912" y="0" width="4.470874096809259" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="457.64690837010045" y="0" width="2.35309162989961" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -424,27 +424,27 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Swift
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        CMake
+                        Swift
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CMake
                     </div>
                 </div>
             </section>
@@ -2761,6 +2761,23 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#87 YOLO v11 Support</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by roscoekerby in <span class="repo">abdelaziz-mahdy/pytorch_lite</span></div>
+                                    <div class="comment">Thank you for the issue, and will look into it when I get some free time since I am quite busy these days</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#300 make file auto clone</span>
                                     </div>
                                 </div>
@@ -2827,24 +2844,6 @@
                                 <div class="details">
                                     <div>opened by rainyl in <span class="repo">rainyl/dartcv</span></div>
                                     <div class="comment">oh, okay then</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#13 add cv_intersectConvexConvex</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by rainyl in <span class="repo">rainyl/dartcv</span></div>
-                                    <div class="comment">isnt CvStatus* cv_isContourConvex(VecPoint contour, bool* rval, CvCallback_0 callback);
-better to have the async work? or its not needed?</div>
                                 </div>
                             </section>
                         </div>
@@ -3114,7 +3113,7 @@ better to have the async work? or its not needed?</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 197k out of 150m users</span>
+                                    <span class="gh">ranked 197k out of 128m users</span>
                                 </div>
                                 <div class="text">Published 101 public repositories</div>
                             </div>
@@ -3305,7 +3304,7 @@ better to have the async work? or its not needed?</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 186k out of 201m repositories</span>
+                                    <span class="gh">ranked 186k out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 71 times</div>
                             </div>
@@ -3357,7 +3356,7 @@ better to have the async work? or its not needed?</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 319k out of 150m users</span>
+                                    <span class="gh">ranked 319k out of 128m users</span>
                                 </div>
                                 <div class="text">Followed by 45 users</div>
                             </div>
@@ -3395,7 +3394,7 @@ better to have the async work? or its not needed?</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 275k out of 201m repositories</span>
+                                    <span class="gh">ranked 275k out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 150 stars</div>
                             </div>
@@ -3619,7 +3618,7 @@ better to have the async work? or its not needed?</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Nov 2024, 16:11:08  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2024, 17:08:37  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

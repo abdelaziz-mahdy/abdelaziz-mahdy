@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 46 users
+                            Followed by 47 users
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.85m added, 2.72m removed
+                                    3.69m added, 2.69m removed
                                 </div>
                             </section>
                             <section>
@@ -389,7 +389,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 255kb of code in 383 edited files across 215 commits over last 24 days</small>
+                <small>estimation from 255kb of code in 383 edited files across 215 commits over last 25 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -2703,10 +2703,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    46 followers
+                    47 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAmACYDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUHBgQBA//EADEQAAEDAwMCBAQFBQAAAAAAAAECAwQABREGITESEwdBUXEUYZGSIiMyQlOBoaLB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgH/xAAdEQACAgMBAQEAAAAAAAAAAAAAAQIRAyExMkFx/9oADAMBAAIRAxEAPwCFUxsltdus9uMyN1nc+grgxvTrSjzrVyQmLIEaQ7htt7BOCVjyHyrj4ahV7LVD8ONNi2tsyoQW+E/mPJecBz684/tUh19psaZvvwzbpejOth5hxQwSkkjf55BFVWHLvbc9qWuQ0i1vRy4Y0lkh4LA3IAA/fud8AHyqbeKF/Zv+o+5FIXHjMhhtQ4XjJJH9SfpRY27Kc6hWlRjThRzRQvGaKYkPvEiuzJTbDCet1w4Azin6NLXiFKiLMdAfKgtLZdAPPPt7cUy8OnlWZq635zZthgstZH6nDj/n3D1rTw7xJm2ONJfaWuQ9lbiu2paA5nnLYK0r6QCPLBo5zfwox401sbpcdkW+W0tlbL5iFhTuVuL7iwdkZ3x7DPFTBzSE9ucY6y0MYIVucg8ZQAVjfbcc1UX7jIi6XaUVRm5Dr3R1POBrYZ81JGOOOgf7pLM1I9brW478TBmT2+lamYzndaQ11gfjOMA5IG3lRxbXB8sIvpLbjAft8xcWYgJeRykLCsfSitT4qOpk36O8loNqcjAqCNjnuOcnzoplMlcadHmt3hbW2dPRgUsQ8FxX8q8qSVfcFn2IHlWjgW2XHgxprXb7S4TautuU6ytSQgbOJTsvGCBuNsUUVh8QkfTGN2kKjWK2tLT2mUbOrYWevJxggHZWy07Lznf0yeHW1sk2TSUlp1cJbcl9tKfhoqWCSDnK8c+1FFYQ8uP8Mp4iJUi9MJB2EcD/ADXRRRSLhFk9M//Z" width="38" height="38" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAmACYDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwIDBP/EADEQAAECBQMDAgILAQAAAAAAAAECAwAEBRESITFBBhNRYYEUcQcVFiIzQqGis9Hw8f/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAAC/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAERAgMhMRL/2gAMAwEAAhEDEQA/AKMVPMJOKM9OcdIZytcZdkDTgtbi3TZLY2HPj0hE/TJ1+jTFQl2e41LPNtOLH5S4FlP8ZiXT9MpdN6ak6hJSw7hSkOuFRWpRP6D5DzCnEHGfuj+q9NVhmjylWcYHw1g4HAb6HbPW48RGJN1poOFYs4CchfmLUqvVVKe+j2yJdttblPwblA2cwcLBd/AHMUS1MfWDy3zvyBClXaM5cZzIP6m6t5TYQvJIHB55ghUtRaxR3Qk2vYwR1CejrpmTdNJqqJp+XlpBwNlxTibrKkEkBGotubn1jZTZ1iX7glUuuSxUHGm5oZhJHOFyPY3HpEcerj7vTwoy5Vlxp2Yz7+J7jeouBrbWw9d/MdqHC24gexijjTXbGWdIkHxDxoQZWlwyAdCO0HlhF7eNoXyE1TZGZKpiksvNHZKVYEeum8d70wPsm0LAFcxr7A/7345jaldxfyhu3VDLkZtqkxKT9QLsjKOSTdiC2Te+2u/zgjKnlguFWWP3bXvvrBEDccBb2JpZIQ2bE5X3hmtOLDS7knS9+YIItx4B+jabex6Xl0i/4yv25f3/AM1ujKQ20p06kCCCOmYyo7JmFXSrEY5beTBBBEmvQn//2Q==" width="38" height="38" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAmACYDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYCBwEFAwQI/8QALRAAAQMDAgUDAgcAAAAAAAAAAQIDBAAFERIhBhMxQXEHFFEiUhVCYYGRobH/xAAZAQADAQEBAAAAAAAAAAAAAAADBAUCAQb/xAAfEQACAwACAgMAAAAAAAAAAAABAgADEQQSBSExQVH/2gAMAwEAAhEDEQA/AKWoqDqtOjbqcZ+KY/TS3NXjiyI3NjtvQ2m3XZDa06xy9BT/ADkjGPiqVtoqUsfqGZ+gJi/UcjIGRk9q9FHh3hFi1uy/wJlcdsa1FUU5xkgn6t9sE+N6UfU7hS3s8INXOyW9uD7V3nPt8vQ4pB+n+ic481Or8qrsFzNi6csE5kqWiiiq0bkVpChg9KdPTSYm0tXua+823H5TbL6izzOSgn6FkdwSSCBk9NsdFL28jRq9u9j5LZH+0z8HGGxar+zeEucuU1GcZaAyZPLcKy2POw8HNIc4q9ZG/kFeNSXCL1agF3C2vMyQ8y22ljKm9aMgA7nAQAfs+aSPUXi19VhlwjGcacuWuPpIK2UoQRrWhz8x7bDY5/TPND4xXK4cajX+O41MM1ouFpILaWQ+hfY5wEZHTtWn4smwrhwsi1wEyJAt7odYlujQXiSvmYBOQjB28VEpqCWjsPWxGulg40SuEOJUSGyCU7Giu4m0y2S0Uxi7zmw7lKgnqemSd8dKK9EOQhHzKIbRHtl5lq3ymJtshz2JAGOctxK2lDOFJUgj7ht3xUVCyqi6bZYG4j60aEyXJjry2zr05SnZKe+2D1/aiipcK4Haa6QnmrBLjiUtnog4zWVtIcVrK3cYI0att6KK4YSSiRA3hZedcSUAALOQPCeg69qKKKxMKoyf/9k=" width="38" height="38" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="38" height="38" alt="" />
@@ -2730,7 +2731,6 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAmACYDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQgD/8QALhAAAQMDAwMCBQQDAAAAAAAAAQIDBAAFEQYSIQcTMUFRIjJhcYEUUqGxFiNj/8QAGAEAAwEBAAAAAAAAAAAAAAAABAUGAwL/xAAjEQABAwMFAAMBAAAAAAAAAAABAAIDBBESBRMhIjFRUtHw/9oADAMBAAIRAxEAPwB9XNkykNNBIBTw32Rg/bikHWet7xFu7tp02+6JEEByW0ylS1LX5Pg+nAI91njjirWOG9Hnx5AYK0ZODjj2pNslnkaf11qedMtsiQidMT/vYbGwAoCyfPwjkY8+K71ScMbi0cIbRobuMjvVK0dY7nE7i+646t1WX7e+0DGez84wc7fsPtVO0J1Eg355iEGpUa0ScNhjcJDSPTCwclrkjHJHtzxUl6uabjf5PdYlqC3XWXe8kJb/AH4ygkccE4/H1rL6M2NEnXce3zl/pZScOJ7iQQoZSrGT4PBwf5FAR4luTeCnM0Z8cOCrdc7cGZjraQQgLO3nPw+lFM8qxTnp0hptlTjjaviKeaKqW1It6oOSmOR4TIwXo2O2pYGc4B817InR47chDzuVlPcKT5x68ecVrz5UMsuSJTextpsrUonAQB5rlrUXUCQdeC/wchMVZaTFPqxkjYfqRz98VNVcm43EequoaU5ZX4CfY7jMSVeDI7bjjz5Xn5wM8jml7RGmlP8AU2Hd34Y/Qx0mSXs8qWk7EoAzxyc5+hrVnpRqVtuTbrgjY8A42y21s3g+681s9H9Vx7rdblpN9ntzLXlTH/drPP5CifwfoaWUIvISU+1F5FP19P4qI5cu1Iccgtlnf8w96K2WkRUpw4hts+xZop5uN+FKbT/sue+sPVd9Ts2w2dhyK00tTL7ysFThHkD2T/P2rnN+5vJlh3csknCsnzgZ/ogfiiig4QOU4d1aLKq9D50253ZNpZcSgt4cbUskhIOCR/daHXuYzprqbZbnYw7GlLbUmRtATuO7aogj3BPpRRWLGgTOstp5XGFtz/XXRdkkRG7DbUtIdSgx0EAncRx+4nJooooqI9AlUo7lf//Z" width="38" height="38" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAmACYDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHCAH/xAAsEAABAwQABAQGAwAAAAAAAAABAgMEAAURIRITMVEGFEFhBxUicYHwQrHR/8QAGwEAAQQDAAAAAAAAAAAAAAAABAEDBQYAAgf/xAAfEQABBAMAAwEAAAAAAAAAAAABAAIDEQQSIQUTMVH/2gAMAwEAAhEDEQA/AOdPkKlhxTLwUAkKCP5HNRkm3yo5Xzminh6+1X1biE7LADaAEc3h6/uqj7lZFz0uO+bRzB0b4vbdDRSOJopDQVJQlSzhAJPYClvKvgE8lzA66rTPhZ4Ng3qPJkXK4JhNoVwBR1k475/c1pF7+FdhctnNs8x9vDZIUl3mIVWPyWtdSPiwXyt2C5yvKcTEAjYYZB+/KTRTq6W51NwlpAbTyXOWriUAM76Z+xoogHiBIo0rPIdVNlrUt5GAAOEnaBv8Y/2lnm7XaJsZC7nHmx3iC6psnCBnY75xWkWq2Iv06Q94bYdZsfDwNPzAQVq9cYO959Kl1eAW24jipUouLA0GgUd/ehDnQwkg/UVH46eYAgcXls8O2QWxYjhbYbcUQYx+sgn079KZ3O2lqK0mzXVfLAWt1oOEcGCAM46Hrn0/uo2ZKFgubka4tPfL8ksOt50fTP231oskg3OW+ICj5cpHNKRwA70Bk5z+aEa7mxPFNvLQ3UDqy24hCZksCWlx4SFgrXHSvj3s76borYEWlhmM4pdsYWHHeMc5htZ3nPeipAZDKVafjSbG1oAUiKlEdhpDbTSQlKEDASkawKUfkltlIxxE63++9FFVIroTQKVfejic882vCSgZBFJ221txVFSVbcTk676oopzd2v1KYmb3SfsZJLWfpb0NUUUVtZT/AK2/i//Z" width="38" height="38" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="38" height="38" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAmACYDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUEBgECAwj/xAApEAABBAEDAwMEAwAAAAAAAAABAAIDESEEEjEFE0EiUaEyUmFxscHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDBAD/xAAbEQEBAAMBAQEAAAAAAAAAAAAAAQIRIQMxUf/aAAwDAQACEQMRAD8A8ywxb5GU/BNHHCsvS4Ow4EyjmqaUhgj2yAOquVYtBJHW2RrBj0uOK/CyevWa9OJ53GEgxxMAH1NAz+lV+p6TcHv7rKq/qz+k8LnmOMSTgxi6siufH+CU9SdG6wyNjIwaGPm1HzmrwJFdLdgy+ifFIUh7C47seyFsUTZoDtBHvf4KGaiWGT0GiBRFrvG6jRiIsVkfKz2ItRJGRzu8H+VLf6VP1k8kWgimZMS9/Lc+hJXySTMe05N5sqya/TmTQbDGBsB3Gjwk0TYoAG1nyDykxvHRxbAQ1vgV5Qt3OL3E7C0/dXwhO5I00hdGxpAxhT2aendyGo5ALxwhCnn9CnXUNPqm9PY4yQ27BpnuUik07Yw9zQHPBO4u/pCEkHKavC7UvdI1rWhoAzlCEK4v/9k=" width="38" height="38" alt="" />
                     </section>
                 </div>
             </section>
@@ -2879,15 +2879,15 @@ If you are talking about v1 embedding it has been deprecated for.a  while Now, i
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="67.14285714285714 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="68.47208121827411 329"/>
                                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                                     </svg>
-                                    <span class="title nowrap">40</span>
+                                    <span class="title nowrap">41</span>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="216.53571428571428 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="215.43654822335023 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
                                     <span class="title nowrap">129</span>
@@ -2902,7 +2902,7 @@ If you are talking about v1 embedding it has been deprecated for.a  while Now, i
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.035714285714286 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.01015228426396 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😄</text>
                                     </svg>
                                     <span class="title nowrap">3</span>
@@ -2917,7 +2917,7 @@ If you are talking about v1 embedding it has been deprecated for.a  while Now, i
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="15.107142857142858 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="15.030456852791877 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👀</text>
                                     </svg>
                                     <span class="title nowrap">9</span>
@@ -2925,7 +2925,7 @@ If you are talking about v1 embedding it has been deprecated for.a  while Now, i
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.7142857142857135 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.680203045685278 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                                     </svg>
                                     <span class="title nowrap">4</span>
@@ -2933,7 +2933,7 @@ If you are talking about v1 embedding it has been deprecated for.a  while Now, i
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.464285714285715 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.370558375634516 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                                     </svg>
                                     <span class="title nowrap">11</span>
@@ -3319,7 +3319,7 @@ If you are talking about v1 embedding it has been deprecated for.a  while Now, i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 181k out of 194m repositories</span>
+                                    <span class="gh">ranked 181k out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 73 times</div>
                             </div>
@@ -3334,7 +3334,7 @@ If you are talking about v1 embedding it has been deprecated for.a  while Now, i
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.050251256281406 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.82914572864322 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3371,9 +3371,9 @@ If you are talking about v1 embedding it has been deprecated for.a  while Now, i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 314k out of 151m users</span>
+                                    <span class="gh">ranked 307k out of 151m users</span>
                                 </div>
-                                <div class="text">Followed by 46 users</div>
+                                <div class="text">Followed by 47 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3409,7 +3409,7 @@ If you are talking about v1 embedding it has been deprecated for.a  while Now, i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 275k out of 194m repositories</span>
+                                    <span class="gh">ranked 275k out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 151 stars</div>
                             </div>
@@ -3633,7 +3633,7 @@ If you are talking about v1 embedding it has been deprecated for.a  while Now, i
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Dec 2024, 11:08:32  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Dec 2024, 12:17:31  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

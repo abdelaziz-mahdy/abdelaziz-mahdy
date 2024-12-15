@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.25m added, 2.71m removed
+                                    3.77m added, 2.70m removed
                                 </div>
                             </section>
                             <section>
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 263kb of code in 414 edited files across 229 commits over last 26 days</small>
+                <small>estimation from 263kb of code in 415 edited files across 231 commits over last 26 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="378.3221447968749" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="378.3221447968749" y="0" width="69.00153703152434" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.32368182839923" y="0" width="5.670249023407836" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="452.9939308518071" y="0" width="2.350260930845732" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="455.3441917826528" y="0" width="1.8388486236581352" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="457.1830404063109" y="0" width="1.6152804019367812" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="458.7983208082477" y="0" width="0.7154183095083322" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.5137391177561" y="0" width="0.48626088224394454" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="378.4024519770582" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="378.4024519770582" y="0" width="68.93369344217521" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.33614541923345" y="0" width="5.664673929536006" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="453.0008193487695" y="0" width="2.347950110763815" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="455.3487694595333" y="0" width="1.8370406336297151" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="457.185810093163" y="0" width="1.6136922283251904" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="458.7995023214882" y="0" width="0.7147148969744789" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.51421721846265" y="0" width="0.485782781537341" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2957,18 +2957,18 @@ For newcomers please read the fixes provided above before adding any more commen
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="67.5625 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="68.42035398230088 329"/>
                                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                                     </svg>
-                                    <span class="title nowrap">46</span>
+                                    <span class="title nowrap">47</span>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="220.31249999999997 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="219.81858407079648 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
-                                    <span class="title nowrap">150</span>
+                                    <span class="title nowrap">151</span>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
@@ -2980,7 +2980,7 @@ For newcomers please read the fixes provided above before adding any more commen
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.40625 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.367256637168142 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😄</text>
                                     </svg>
                                     <span class="title nowrap">3</span>
@@ -2995,7 +2995,7 @@ For newcomers please read the fixes provided above before adding any more commen
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="14.6875 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="14.557522123893806 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👀</text>
                                     </svg>
                                     <span class="title nowrap">10</span>
@@ -3003,7 +3003,7 @@ For newcomers please read the fixes provided above before adding any more commen
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.875 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.823008849557522 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                                     </svg>
                                     <span class="title nowrap">4</span>
@@ -3011,7 +3011,7 @@ For newcomers please read the fixes provided above before adding any more commen
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="16.15625 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="16.013274336283185 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                                     </svg>
                                     <span class="title nowrap">11</span>
@@ -3397,7 +3397,7 @@ For newcomers please read the fixes provided above before adding any more commen
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 181k out of 230m repositories</span>
+                                    <span class="gh">ranked 181k out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 73 times</div>
                             </div>
@@ -3487,7 +3487,7 @@ For newcomers please read the fixes provided above before adding any more commen
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 275k out of 230m repositories</span>
+                                    <span class="gh">ranked 275k out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 151 stars</div>
                             </div>
@@ -3711,7 +3711,7 @@ For newcomers please read the fixes provided above before adding any more commen
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2024, 02:28:33  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2024, 03:31:58  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

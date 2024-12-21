@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.02m added, 2.74m removed
+                                    4.07m added, 2.75m removed
                                 </div>
                             </section>
                             <section>
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 529kb of code in 597 edited files across 342 commits over last 25 days</small>
+                <small>estimation from 535kb of code in 608 edited files across 347 commits over last 25 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="364.0354309314205" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="364.0354309314205" y="0" width="44.09520704271275" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="408.13063797413326" y="0" width="30.70499583378618" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="438.83563380791946" y="0" width="11.083795239647863" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="449.9194290475673" y="0" width="4.20121001340434" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="454.1206390609716" y="0" width="3.381299134152085" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.50193819512367" y="0" width="1.401514328152737" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.9034525232764" y="0" width="1.0965474767235446" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="365.96498327972904" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="365.96498327972904" y="0" width="43.20858804234382" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="409.1735713220729" y="0" width="30.087612799704647" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="439.26118412177755" y="0" width="10.860934205201389" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="450.122118326979" y="0" width="4.11673660070857" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="454.23885492768756" y="0" width="3.3133116076309754" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.5521665353185" y="0" width="1.373334185321661" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="458.9255007206402" y="0" width="1.0744992793598729" height="8" fill="#F05138"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -3328,7 +3328,7 @@ convert recent to hianime</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 179k out of 219m repositories</span>
+                                    <span class="gh">ranked 179k out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 74 times</div>
                             </div>
@@ -3418,7 +3418,7 @@ convert recent to hianime</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 274k out of 219m repositories</span>
+                                    <span class="gh">ranked 274k out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 152 stars</div>
                             </div>
@@ -3642,7 +3642,7 @@ convert recent to hianime</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Dec 2024, 18:10:47  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Dec 2024, 19:05:06  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

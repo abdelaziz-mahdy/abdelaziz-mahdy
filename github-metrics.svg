@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3265" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3282" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.86m added, 2.74m removed
+                                    3.74m added, 2.70m removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.971337865565" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="266.971337865565" y="0" width="109.49988046820991" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="376.4712183337749" y="0" width="45.63154353414305" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="422.10276186791793" y="0" width="11.125165487791316" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="433.2279273557093" y="0" width="10.058106860311861" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="443.2860342160211" y="0" width="5.672084578994994" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="448.9581187950161" y="0" width="5.622538929120789" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="454.5806577241369" y="0" width="5.419342275863114" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.9849596391614" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="266.9849596391614" y="0" width="109.49215320862017" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="376.4771128477816" y="0" width="45.62832337736423" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="422.1054362251458" y="0" width="11.124380399795461" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="433.2298166249413" y="0" width="10.057397073211103" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="443.28721369815236" y="0" width="5.671684307599543" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="448.9588980057519" y="0" width="5.6221421540953465" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="454.58104015984725" y="0" width="5.418959840152754" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 968kb of code in 879 edited files across 483 commits over last 27 days</small>
+                <small>estimation from 972kb of code in 893 edited files across 490 commits over last 27 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="394.8390407915664" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="394.8390407915664" y="0" width="31.39922344957409" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="426.2382642411405" y="0" width="22.07347305921333" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="448.3117373003538" y="0" width="5.548400200938317" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="453.8601375012921" y="0" width="2.181486472027319" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="456.0416239733194" y="0" width="1.6926332893856328" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.73425726270506" y="0" width="1.3097261036645853" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="459.0439833663696" y="0" width="0.9560166336303279" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="394.9159972104734" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="394.9159972104734" y="0" width="31.362140327678805" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="426.2781375381522" y="0" width="22.04740383831614" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="448.3255413764683" y="0" width="5.541847427386268" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="453.86738880385457" y="0" width="2.178910092108719" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="456.0462988959633" y="0" width="1.6906342550243179" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.73693315098757" y="0" width="1.308179290482099" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="459.04511244146966" y="0" width="0.9548875585302455" height="8" fill="#F05138"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2764,6 +2764,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#c7771d6</div>
+                                        <div class="message">Fix: ensure subtitle view updates when player changes; update version to 1.0.25</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">abdelaziz-mahdy/universal_video_controls</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#232a111</div>
                                         <div class="message">chore: update changelog and version to 1.0.6; add missing condition from 1.0.5</div>
                                     </div>
@@ -2821,23 +2841,6 @@
                                 <div class="details">
                                     <div>opened by abdelaziz-mahdy in <span class="repo">wang-bin/fvp</span></div>
                                     <div class="comment">can seeks be ignored if another request is sent to mdk? that will much better than a debouncer from my side since there might be loading happening or other stuff in older requests that mdk is handling so mdk ignoring the old requests is much better</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#202 android audio crack on seek (then it plays normally)</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">wang-bin/fvp</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3199,7 +3202,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.809999999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.12 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3221,7 +3224,7 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 551 times</div>
+                                <div class="text">Repositories have been deployed 552 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3298,7 +3301,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 179k out of 225m repositories</span>
+                                    <span class="gh">ranked 179k out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 74 times</div>
                             </div>
@@ -3388,7 +3391,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 274k out of 225m repositories</span>
+                                    <span class="gh">ranked 274k out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 152 stars</div>
                             </div>
@@ -3612,7 +3615,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Dec 2024, 13:15:44  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Dec 2024, 14:08:56  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            2243 issue comments
+                            2244 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.31m added, 2.73m removed
+                                    3.81m added, 2.74m removed
                                 </div>
                             </section>
                             <section>
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.23mb of code in 1172 edited files across 562 commits over last 28 days</small>
+                <small>estimation from 1.23mb of code in 1170 edited files across 559 commits over last 28 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.21536821262663" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="382.21536821262663" y="0" width="46.14728505064352" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="428.36265326327015" y="0" width="20.87426700175158" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="449.23692026502175" y="0" width="5.065113091158327" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.30203335618006" y="0" width="1.9914705658365701" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="456.2935039220166" y="0" width="1.545198385499962" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.8387023075166" y="0" width="1.1956438961236766" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="459.0343462036403" y="0" width="0.9656537963597593" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.0734551172117" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="382.0734551172117" y="0" width="46.23147782646627" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="428.30493294367795" y="0" width="20.912350769414488" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="449.21728371309246" y="0" width="5.0743540666682145" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="454.29163777976066" y="0" width="1.9951038767609957" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="456.28674165652166" y="0" width="1.5480175013185697" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.8347591578402" y="0" width="1.1978252720897755" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="459.03258442993" y="0" width="0.9674155700699589" height="8" fill="#F05138"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2769,6 +2769,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#8347 [video_player] Optimize caption retrieval with binary search in VideoPlayerController</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by abdelaziz-mahdy in <span class="repo">flutter/packages</span></div>
+                                    <div class="comment">I just checked the test for sorting, and it shows that the captions are not sorted. After rechecking the code, I realized that the captions are implemented as a getter, which means it’s a read-only operation.
+I have two solutions in mind:
+1- Modify the public-facing controller by adding a getter to retrieve the sorted captions. However, based on my observations, it’s not recommended to change the interface, so this solution might not be valid.
+2- Ensure that all ClosedCaptionFile classes return sorted captions. I will implement this solution for now, and if the public-facing approach turns out to be better, we can always revert to it.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -2837,29 +2857,6 @@ In all ways will need to wait for dart native assets support to include the bina
                                 <div class="details">
                                     <div>opened by guyluz11 in <span class="repo">abdelaziz-mahdy/pytorch_lite</span></div>
                                     <div class="comment">Sadly the binaries to run the models are each into android and iOS sdks,so pure dart version is extremely hard</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#8347 [video_player] Optimize caption retrieval with binary search in VideoPlayerController</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by abdelaziz-mahdy in <span class="repo">flutter/packages</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            <i>@stuartmorgan does this change need a test? It shouldn't be changing any behaviors, I'm not sure how a test would work honestly.</i>
-                                            The fact that it's a more efficient search doesn't inherently need a test; that's essentially just a refactoring. However, this seems like a good opportunity to make sure we have reasonably robust coverage of caption correctness. E.g., is there a unit test that would fail if the initial sort were commented out?
-                                        </i>
-                                        I can add that , so in general more caption edge cases
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3144,7 +3141,7 @@ In all ways will need to wait for dart native assets support to include the bina
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.84873374401094 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.933607118412034 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3320,7 +3317,7 @@ In all ways will need to wait for dart native assets support to include the bina
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 179k out of 215m repositories</span>
+                                    <span class="gh">ranked 179k out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 74 times</div>
                             </div>
@@ -3410,7 +3407,7 @@ In all ways will need to wait for dart native assets support to include the bina
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 274k out of 215m repositories</span>
+                                    <span class="gh">ranked 274k out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 152 stars</div>
                             </div>
@@ -3634,7 +3631,7 @@ In all ways will need to wait for dart native assets support to include the bina
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2024, 17:08:12  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Dec 2024, 18:12:10  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

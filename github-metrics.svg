@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3270" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3245" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.16m added, 2.75m removed
+                                    3.27m added, 2.77m removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.0163524112691" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="267.0163524112691" y="0" width="108.98287089884202" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="375.9992233101111" y="0" width="45.41609174943514" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="421.4153150595463" y="0" width="11.924554433016382" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="433.3398694925627" y="0" width="10.014423190077197" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="443.3542926826399" y="0" width="5.645303526878178" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="448.999596209518" y="0" width="5.6066492303709285" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="454.606245439889" y="0" width="5.3937545601110894" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.00069114726585" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="267.00069114726585" y="0" width="108.97647874533696" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="375.97716989260283" y="0" width="45.41342796724929" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="421.3905978598521" y="0" width="11.923855024184638" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="433.31445288403677" y="0" width="10.04081611639957" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="443.3552690004363" y="0" width="5.644972413865381" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="449.0002414143017" y="0" width="5.60632038454191" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="454.6065617988436" y="0" width="5.393438201156398" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.24mb of code in 1173 edited files across 562 commits over last 24 days</small>
+                <small>estimation from 1.24mb of code in 1178 edited files across 564 commits over last 24 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="378.1508799425344" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="378.1508799425344" y="0" width="45.50586084174095" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="423.6567407842753" y="0" width="25.729780912266953" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="449.3865216965423" y="0" width="4.994710549515133" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.3812322460574" y="0" width="1.9637901198289092" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="456.34502236588634" y="0" width="1.523720899859601" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.86874326574593" y="0" width="1.179025043262481" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="459.0477683090084" y="0" width="0.9522316909916088" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.65113768112406" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="376.65113768112406" y="0" width="45.32538509445038" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="421.97652277557444" y="0" width="27.452091860047254" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="449.42861463562167" y="0" width="4.974901582005239" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="454.40351621762693" y="0" width="1.9560017496532403" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="456.35951796728017" y="0" width="1.5176778394058983" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.877195806686" y="0" width="1.174349042812844" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="459.0515448494989" y="0" width="0.9484551505010741" height="8" fill="#F05138"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2772,6 +2772,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">abdelaziz-mahdy/anime_mapping</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#61946dd</div>
+                                        <div class="message">Chore: update version and improve episode fetching logic</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">abdelaziz-mahdy/packages</span>
                                     </div>
                                 </div>
@@ -2835,32 +2855,6 @@
                                 <div class="details">
                                     <div>opened by abdelaziz-mahdy in <span class="repo">wang-bin/fvp</span></div>
                                     <div class="comment">Any solution to the crack? Since it's annoying to users</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#8347 [video_player] Optimize caption retrieval with binary search in VideoPlayerController</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by abdelaziz-mahdy in <span class="repo">flutter/packages</span></div>
-                                    <div class="comment">
-                                        i didnt mean all the testing of the testing is ignored, just this test
-                                        <code>captions are sorted correctly on initialization</code>
-                                        since it requires the expose of the public interface so i can check if they are sorted correctly
-                                        <code>List&lt;caption&gt;? get sortedCaptions</code>
-                                        without it i cant get the sorted list and without the sorted list i cant make that test
-but i did add test cases for not sorted captions and tested retrieving them which works correctly and if the sorting is removed they wont pass
-so i think those are enough, and no need to introduce the public interface since all of the cases are covered as you mentioned
-and i did remove the public method.
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3321,7 +3315,7 @@ and i did remove the public method.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 179k out of 225m repositories</span>
+                                    <span class="gh">ranked 179k out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 74 times</div>
                             </div>
@@ -3411,7 +3405,7 @@ and i did remove the public method.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 275k out of 225m repositories</span>
+                                    <span class="gh">ranked 275k out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 152 stars</div>
                             </div>
@@ -3635,7 +3629,7 @@ and i did remove the public method.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Dec 2024, 15:08:14  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Dec 2024, 16:09:24  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

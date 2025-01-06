@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3370" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3219" class="">
     <defs>
         <style/>
     </defs>
@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            17359 Commits
+                            17364 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,13 +171,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    3.50 GB used
+                                    3.54 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.53m added, 2.97m removed
+                                    3.83m added, 2.73m removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.75060167836017" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="266.75060167836017" y="0" width="108.08622927096911" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="374.8368309493293" y="0" width="46.649119687906904" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="421.4859506372362" y="0" width="11.917621616265098" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="433.4035722535013" y="0" width="9.954073524621997" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="443.3576457781233" y="0" width="5.706213371941787" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="449.06385915006507" y="0" width="5.592672311720031" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="454.6565314617851" y="0" width="5.343468538214864" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.05316919524654" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="267.05316919524654" y="0" width="107.91133866238334" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="374.9645078576299" y="0" width="46.5736383524284" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="421.5381462100583" y="0" width="11.898338122785663" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="433.436484332844" y="0" width="9.937967180748492" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="443.3744515135925" y="0" width="5.707103029694605" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="449.0815545432871" y="0" width="5.583623001083378" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="454.66517754437047" y="0" width="5.334822455629594" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.56mb of code in 1576 edited files across 558 commits over last 21 days</small>
+                <small>estimation from 1.54mb of code in 1587 edited files across 560 commits over last 21 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="390.68980742300045" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="390.68980742300045" y="0" width="58.381648544745836" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="449.07145596774626" y="0" width="6.245395188696916" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.3168511564432" y="0" width="1.4704400103468884" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="456.78729116679006" y="0" width="0.9852512242331262" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.7725423910232" y="0" width="0.8749810455709074" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.6475234365941" y="0" width="0.8436950879039524" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.49121852449804" y="0" width="0.508781475501958" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="391.88131071637446" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="391.88131071637446" y="0" width="57.88949412556813" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="449.77080484194255" y="0" width="6.192746815136985" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.9635516570795" y="0" width="1.458044273548307" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.4215959306278" y="0" width="0.8676049984909007" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="458.28920092911875" y="0" width="0.8365827799047664" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.1257837090235" y="0" width="0.5044924727450021" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="459.6302761817685" y="0" width="0.3697238182314682" height="8" fill="#F05138"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -431,12 +431,6 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Makefile
@@ -452,6 +446,12 @@
                             <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CMake
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Swift
                     </div>
                 </div>
             </section>
@@ -476,7 +476,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 18 days
+                            Current streak 19 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -500,7 +500,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~10.95
+                            Average per day at ~10.94
                         </div>
                     </section>
                 </div>
@@ -2481,6 +2481,13 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2769230769230768 1.7,2.276923076923077 z"/>
                             </g>
                         </g>
+                        <g transform="translate(90.1, 53)">
+                            <g transform="translate(0, 5.538461538461538)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4615384615384617 0,1.4615384615384617 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4615384615384617 1.7,2.4615384615384617 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -2782,6 +2789,38 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">abdelaziz-mahdy/cameras_viewer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#604e2f5</div>
+                                        <div class="message">Update asset path for face features extraction model to improve recognition accuracy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#73e3ea0</div>
+                                        <div class="message">Refactor service initialization and add asset file handling; improve face detection and extraction services</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be0e71e</div>
+                                        <div class="message">Initialize services in main and clean up camera grid view code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7da4796</div>
+                                        <div class="message">Add face detection and feature extraction services; initialize in main</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">abdelaziz-mahdy/cameras_viewer</span>
                                     </div>
@@ -2841,80 +2880,6 @@
                                         Created new
                       repository
                                         <span class="repo">abdelaziz-mahdy/cameras_viewer</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">abdelaziz-mahdy/opencv_dart</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#782aaf5</div>
-                                        <div class="message">Merge pull request #305 from rainyl/no-copy-imcodecs
-
-add Vec version of imencode imdecode, add haveImageReader haveImageWr…</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0f7b9d</div>
-                                        <div class="message">dart format ✅</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b65f4b</div>
-                                        <div class="message">add Vec version of imencode imdecode, add haveImageReader haveImageWriter imcount</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4983c38</div>
-                                        <div class="message">Merge pull request #299 from rainyl/add-isContourConvex
-
-add isContourConvex, intersectConvexConvex</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ffaef1</div>
-                                        <div class="message">Commit SVG reports</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e689352</div>
-                                        <div class="message">add test for isContourConvex and intersectConvexConvex</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec15b66</div>
-                                        <div class="message">Merge branch 'main' into add-isContourConvex</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#618d4c3</div>
-                                        <div class="message">Merge pull request #300 from abdelaziz-mahdy/fix-make-file
-
-make file auto clone</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc98fd4</div>
-                                        <div class="message">updating the make file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d029265</div>
-                                        <div class="message">make file auto clone</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42fe434</div>
-                                        <div class="message">remove logging dependency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09fc705</div>
-                                        <div class="message">update dartcv_version to 4.10.0.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ee7281</div>
-                                        <div class="message">add isContourConvex, intersectConvexConvex</div>
                                     </div>
                                 </div>
                             </section>
@@ -3376,7 +3341,7 @@ make file auto clone</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 180k out of 219m repositories</span>
+                                    <span class="gh">ranked 180k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 74 times</div>
                             </div>
@@ -3466,7 +3431,7 @@ make file auto clone</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 275k out of 219m repositories</span>
+                                    <span class="gh">ranked 275k out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 152 stars</div>
                             </div>
@@ -3690,7 +3655,7 @@ make file auto clone</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2025, 23:08:31  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jan 2025, 00:43:31  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.01m added, 2.74m removed
+                                    718k added, 361k removed
                                 </div>
                             </section>
                             <section>
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.48mb of code in 1260 edited files across 601 commits over last 29 days</small>
+                <small>estimation from 1.47mb of code in 1237 edited files across 599 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.331079011974" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="284.331079011974" y="0" width="155.06589088946214" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="439.39696990143614" y="0" width="5.5070977385852276" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="444.90406764002137" y="0" width="4.735922602210031" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="449.63999024223136" y="0" width="3.8119449620329378" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.4519352042643" y="0" width="3.2460981901415398" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="456.69803339440585" y="0" width="1.7982944666185698" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="458.49632786102444" y="0" width="1.503672138975538" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.99257620702963" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="284.99257620702963" y="0" width="154.5316351385237" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="439.52421134555334" y="0" width="5.519910019675392" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="445.0441213652287" y="0" width="4.746940741796631" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="449.79106210702537" y="0" width="3.8208134645858545" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.6118755716112" y="0" width="3.0784757865734957" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="456.69035135818467" y="0" width="1.802478204638648" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="458.4928295628234" y="0" width="1.507170437176607" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2754,6 +2754,29 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#1056 media_kit: armeabi-v7a JAR verification failed.</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by EchoSerendipity in <span class="repo">media-kit/media-kit</span></div>
+                                    <div class="comment">
+                                        <i>
+                                            <i>Download the required package and copy it to the corresponding directory</i>
+                                            where download these?
+                                        </i>
+                                        https://github.com/media-kit/libmpv-android-video-build/releases/tag/v1.1.6
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
                                     <div class="content">
@@ -2823,24 +2846,6 @@
                                         <i>I am sorry . I think there are some differences in bug scenes, #615 is the abnormal color of HDR video playback, and my bug is the black screen of Dolby video playback. The author replied that vo=gpu-next can be enabled using the following method, but I tried it and it didn't work. Could you tell me how to enable this api @abdelaziz-mahdy</i>
                                         Sadly I don't know, but you may give fvp a try, since it uses ffmpeg under the hood too, but no promises
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1093 [Bug Report][Android] vo: 'gpu-next' is unavailable</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by LeeeYudE in <span class="repo">media-kit/media-kit</span></div>
-                                    <div class="comment">isnt this the same as this one ? since its already explained there 
-https://github.com/media-kit/media-kit/issues/615</div>
                                 </div>
                             </section>
                         </div>
@@ -3301,7 +3306,7 @@ https://github.com/media-kit/media-kit/issues/615</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 183k out of 231m repositories</span>
+                                    <span class="gh">ranked 183k out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 73 times</div>
                             </div>
@@ -3391,7 +3396,7 @@ https://github.com/media-kit/media-kit/issues/615</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 270k out of 231m repositories</span>
+                                    <span class="gh">ranked 270k out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 157 stars</div>
                             </div>
@@ -3615,7 +3620,7 @@ https://github.com/media-kit/media-kit/issues/615</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Feb 2025, 22:08:42  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Feb 2025, 23:09:06  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

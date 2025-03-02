@@ -3237,7 +3237,7 @@ Is this a bug then? Or should this issue be closed?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 269k out of 235m repositories</span>
+                                    <span class="gh">ranked 269k out of 228m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 160 stars</div>
                             </div>
@@ -3461,7 +3461,7 @@ Is this a bug then? Or should this issue be closed?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2025, 13:13:35  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Mar 2025, 14:08:30  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

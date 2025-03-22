@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.19m added, 2.74m removed
+                                    3.28m added, 2.94m removed
                                 </div>
                             </section>
                             <section>
@@ -273,14 +273,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="6" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="6" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="6" y="0" width="1.4285714285714286" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="7.428571428571429" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="7.428571428571429" y="0" width="11.428571428571429" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="18.857142857142858" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="18.857142857142858" y="0" width="201.14285714285714" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="5.992217898832685" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="5.992217898832685" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="5.992217898832685" y="0" width="1.4267185473411155" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="7.4189364461738005" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="7.4189364461738005" y="0" width="11.413748378728924" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="18.832684824902724" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="18.832684824902724" y="0" width="201.16731517509726" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="219.99999999999997" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
                             <div class="field">
@@ -293,7 +293,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">704 <small>merged</small></span>
+                                <span class="no-wrap">705 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="274.62164291179727" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="274.62164291179727" y="0" width="88.3773548925209" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="362.99899780431815" y="0" width="43.55130445837472" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="406.55030226269287" y="0" width="22.20916423890159" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="428.7594665015945" y="0" width="11.316265511161383" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="440.07573201275585" y="0" width="9.868879893352597" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="449.94461190610843" y="0" width="5.145645112231659" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="455.0902570183401" y="0" width="4.909742981659878" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="274.62257899231423" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="274.62257899231423" y="0" width="88.37690862510675" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="362.999487617421" y="0" width="43.55108454312553" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="406.55057216054655" y="0" width="22.209052092228863" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="428.7596242527754" y="0" width="11.316208368915456" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="440.07583262169084" y="0" width="9.868830059777968" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="449.9446626814688" y="0" width="5.145619128949615" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="455.0902818104184" y="0" width="4.909718189581554" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.97mb of code in 1637 edited files across 469 commits over last 29 days</small>
+                <small>estimation from 2.99mb of code in 1674 edited files across 486 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="181.32451693127683" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="181.32451693127683" y="0" width="172.3821913748005" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="353.7067083060773" y="0" width="32.828409392371654" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="386.5351176984489" y="0" width="31.014822374327814" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="417.54994007277674" y="0" width="18.760340362432242" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="436.310280435209" y="0" width="12.620379403700365" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="448.9306598389093" y="0" width="6.4098624568692495" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="455.34052229577856" y="0" width="4.659477704221348" height="8" fill="#dd1100"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="182.4199778964438" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="182.4199778964438" y="0" width="171.70456462535847" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="354.1245425218023" y="0" width="32.69936237093348" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="386.8239048927358" y="0" width="30.892904483028115" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="417.7168093757639" y="0" width="18.6865942964562" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="436.4034036722201" y="0" width="12.57076925195644" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="448.97417292417657" y="0" width="6.384665571817622" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.3588384959942" y="0" width="4.641161504005839" height="8" fill="#dd1100"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -3406,7 +3406,7 @@ Fixes https://github.com/flutter/flutter/issues/157660</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.7 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="84.01 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3434,7 +3434,7 @@ Fixes https://github.com/flutter/flutter/issues/157660</div>
                                     <span class="prefix">Super</span>
                                     contributor
                                 </div>
-                                <div class="text">Opened 770 pull requests</div>
+                                <div class="text">Opened 771 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3546,7 +3546,7 @@ Fixes https://github.com/flutter/flutter/issues/157660</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 183k out of 222m repositories</span>
+                                    <span class="gh">ranked 183k out of 236m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 74 times</div>
                             </div>
@@ -3636,7 +3636,7 @@ Fixes https://github.com/flutter/flutter/issues/157660</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 269k out of 222m repositories</span>
+                                    <span class="gh">ranked 269k out of 236m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 161 stars</div>
                             </div>
@@ -3860,7 +3860,7 @@ Fixes https://github.com/flutter/flutter/issues/157660</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Mar 2025, 20:09:59  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Mar 2025, 21:08:21  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

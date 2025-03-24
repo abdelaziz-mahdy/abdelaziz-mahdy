@@ -327,7 +327,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.84mb of code in 1211 edited files across 464 commits over last 30 days</small>
+                <small>estimation from 1.84mb of code in 1209 edited files across 461 commits over last 30 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -3209,7 +3209,7 @@ i will try to give it a try and let you know if i got it to work &lt;3
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 268k out of 234m repositories</span>
+                                    <span class="gh">ranked 268k out of 228m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 162 stars</div>
                             </div>
@@ -3433,7 +3433,7 @@ i will try to give it a try and let you know if i got it to work &lt;3
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Mar 2025, 15:11:58  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Mar 2025, 16:13:01  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

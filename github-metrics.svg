@@ -3247,7 +3247,7 @@ chore(release): publish packages</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 269k out of 237m repositories</span>
+                                    <span class="gh">ranked 269k out of 235m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 162 stars</div>
                             </div>
@@ -3471,7 +3471,7 @@ chore(release): publish packages</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Mar 2025, 10:09:30  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Mar 2025, 11:08:03  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

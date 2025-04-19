@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    181k added, 59.4k removed
+                                    3.70m added, 2.92m removed
                                 </div>
                             </section>
                             <section>
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.86mb of code in 1460 edited files across 640 commits over last 30 days</small>
+                <small>estimation from 3.84mb of code in 1464 edited files across 648 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="220.2661002054461" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="220.2661002054461" y="0" width="162.50502729385127" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="382.7711274992974" y="0" width="63.47303866266067" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="446.24416616195805" y="0" width="10.440867940511676" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="456.68503410246973" y="0" width="1.910134153534346" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="458.5951682560041" y="0" width="1.0811650654537825" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="459.6763333214579" y="0" width="0.2005276679294279" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.8768609893873" y="0" width="0.12313901061273609" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="213.4083446407739" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="213.4083446407739" y="0" width="164.42476254374853" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="377.8331071845224" y="0" width="64.76082134577736" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="442.59392853029976" y="0" width="10.565068270236981" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="453.1589968005367" y="0" width="3.6895168760420782" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="456.8485136765788" y="0" width="1.9328563345867484" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="458.78137001116556" y="0" width="1.0940261665022706" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="459.8753961776679" y="0" width="0.12460382233215336" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -431,6 +431,12 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Shell
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         PowerShell
@@ -440,12 +446,6 @@
                             <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Batchfile
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Shell
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2785,8 +2785,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a50b7e0</div>
-                                        <div class="message">Remove Python version specification when creating virtual environments in setup scripts</div>
+                                        <div class="sha">#2b6719b</div>
+                                        <div class="message">Add 'picamera2' option to camera type argument in command line parser</div>
                                     </div>
                                 </div>
                             </section>
@@ -2805,8 +2805,15 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1d90883</div>
-                                        <div class="message">Restrict numpy version to &lt;1.20 in requirements.txt for compatibility</div>
+                                        <div class="sha">#83aa94e</div>
+                                        <div class="message">Enhance camera server setup for PiCamera2 support and auto-detection
+
+- Set default camera type to 'auto' in setup scripts
+- Update usage instructions to include 'picamera2'
+- Implement camera type auto-detection logic
+- Add run scripts for OpenCV, PiCamera, and PiCamera2
+- Modify cron job setup to use new run scripts
+- Ensure proper installation of dependencies for both PiCamera and PiCamera2</div>
                                     </div>
                                 </div>
                             </section>
@@ -2825,8 +2832,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5c89442</div>
-                                        <div class="message">Restrict numpy version to &lt;1.24 in requirements.txt for compatibility</div>
+                                        <div class="sha">#67ffe58</div>
+                                        <div class="message">Update requirements and install command for picamera2 support</div>
                                     </div>
                                 </div>
                             </section>
@@ -2845,8 +2852,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5a3beef</div>
-                                        <div class="message">Update pip install command for PiCamera to include index strategy for better package resolution</div>
+                                        <div class="sha">#a6744df</div>
+                                        <div class="message">Implement PiCamera2Provider for camera handling and update requirements for picamera2</div>
                                     </div>
                                 </div>
                             </section>
@@ -2865,8 +2872,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b35745d</div>
-                                        <div class="message">Update virtual environment creation to use Python 3.9 in setup scripts and requirements</div>
+                                        <div class="sha">#c3d59b7</div>
+                                        <div class="message">Update package name from picamera to picamera2 in requirements-picamera.txt</div>
                                     </div>
                                 </div>
                             </section>
@@ -3042,7 +3049,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2025, 18:11:54  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Apr 2025, 19:08:02  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -32,7 +32,7 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.33m added, 2.95m removed
+                                    1.03m added, 66.2k removed
                                 </div>
                             </section>
                             <section>
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.80mb of code in 1465 edited files across 653 commits over last 29 days</small>
+                <small>estimation from 3.80mb of code in 1460 edited files across 655 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="207.15585523314274" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="207.15585523314274" y="0" width="167.02538460403852" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="374.18123983718124" y="0" width="67.83627390694228" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="442.01751374412356" y="0" width="10.732170531398754" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="452.74968427552227" y="0" width="4.048983959721542" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="456.79866823524384" y="0" width="1.963427330982502" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="458.7620955662264" y="0" width="1.1113298167501056" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="459.87342538297645" y="0" width="0.1265746170235383" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.2506411066994" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="203.2506411066994" y="0" width="166.10140360638326" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="369.3520447130826" y="0" width="67.46100503275082" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="436.81304974583344" y="0" width="10.672800384411117" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="447.48585013024456" y="0" width="9.33052780658051" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="456.81637793682506" y="0" width="1.9525656913077565" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="458.76894362813283" y="0" width="1.10518196302572" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="459.87412559115853" y="0" width="0.1258744088414557" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2785,8 +2785,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fe50b6e</div>
-                                        <div class="message">Enhance PiCamera2 support with improved import handling and system-site-packages for virtual environment</div>
+                                        <div class="sha">#9387166</div>
+                                        <div class="message">Enhance camera server scripts with detailed logging, environment checks, and error handling</div>
                                     </div>
                                 </div>
                             </section>
@@ -2805,8 +2805,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dd28be0</div>
-                                        <div class="message">Add rpi-libcamera to requirements for enhanced camera support</div>
+                                        <div class="sha">#41ae1de</div>
+                                        <div class="message">Remove unnecessary extra index URL from pip install command for picamera dependencies</div>
                                     </div>
                                 </div>
                             </section>
@@ -2825,8 +2825,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4f24aff</div>
-                                        <div class="message">Fix requirements file to enable picamera2 dependency</div>
+                                        <div class="sha">#a25ac09</div>
+                                        <div class="message">Fix numpy version constraint to use less than instead of less than or equal to 2.0.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -2845,14 +2845,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#39156c5</div>
-                                        <div class="message">Enhance OpenCVCameraProvider with detailed logging and error handling
-
-- Added debug-level logging configuration for OpenCV.
-- Implemented methods for setting up logging based on OpenCV version.
-- Included checks for video device permissions on Linux.
-- Enhanced camera opening logic to try multiple backends and log detailed information.
-- Improved frame capture error handling with automatic reopening of the camera after multiple failures.</div>
+                                        <div class="sha">#a86655a</div>
+                                        <div class="message">Update numpy version constraint to allow only versions less than or equal to 2.0.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -2871,8 +2865,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2b6719b</div>
-                                        <div class="message">Add 'picamera2' option to camera type argument in command line parser</div>
+                                        <div class="sha">#ccffb4c</div>
+                                        <div class="message">Remove unnecessary extra index URL from pip install command for picamera dependencies</div>
                                     </div>
                                 </div>
                             </section>
@@ -3048,7 +3042,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2025, 20:10:30  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Apr 2025, 21:08:18  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

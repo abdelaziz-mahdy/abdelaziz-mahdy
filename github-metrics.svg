@@ -327,20 +327,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.32mb of code in 1117 edited files across 563 commits over last 29 days</small>
+                <small>estimation from 3.32mb of code in 1119 edited files across 564 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="210.26769344104085" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="210.26769344104085" y="0" width="107.91975301444064" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="318.1874464554815" y="0" width="97.51318849934049" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="415.70063495482196" y="0" width="25.43963607904251" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="441.14027103386445" y="0" width="14.473334572559553" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="455.613605606424" y="0" width="2.212759594457504" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="457.82636520088147" y="0" width="1.4782231142212183" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.3045883151027" y="0" width="0.695411684897239" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="210.9285132309048" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="210.9285132309048" y="0" width="107.63418520188239" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="318.56269843278716" y="0" width="97.25515762772042" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="415.8178560605076" y="0" width="25.372319938813778" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="441.19017599932135" y="0" width="14.43503650034513" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="455.6252124996665" y="0" width="2.206904383530344" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="457.8321168831968" y="0" width="1.474311569490897" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.3064284526877" y="0" width="0.6935715473122598" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2980,7 +2980,7 @@ Since I already have unit and integration tests that should cover most of the si
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2025, 06:13:22  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Apr 2025, 07:09:41  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

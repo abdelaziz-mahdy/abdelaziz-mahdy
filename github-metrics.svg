@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2454" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2770" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text,.gauge text.secondary{fill:currentColor;font-family:monospace;text-anchor:middle}.gauge text{font-size:40px;font-weight:600}.gauge text.secondary{font-size:25px}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.leetcode.subsection{padding-left:28px}.leetcode .topics{margin-left:20px}.leetcode .count{font-size:10px;color:#666}.leetcode .easy.gauge .gauge-arc,.leetcode .fundamental .dot{color:#2cbb5d}.leetcode .intermediate .dot,.leetcode .medium.gauge .gauge-arc{color:#ffc01e}.leetcode .hard.gauge .gauge-arc{color:#ef4743}.leetcode .all.gauge .gauge-arc{color:#ffa116}.leetcode{align-items:flex-start}.leetcode .infos{margin-bottom:3px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text,.gauge text.secondary{fill:currentColor;font-family:monospace;text-anchor:middle}.gauge text{font-size:40px;font-weight:600}.gauge text.secondary{font-size:25px}.gauge .title{font-size:18px;color:#777}.audit.text{min-width:42px}.audit svg{margin:0}.post{align-items:flex-start}.post .infos{display:flex;margin-bottom:4px}.post .infos .description,.post .infos .title{font-size:14px;white-space:normal;overflow:hidden;text-overflow:ellipsis;max-height:38px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.post .infos .description{margin-top:3px;font-size:12px;max-height:48px;color:#666;-webkit-line-clamp:3}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.leetcode.subsection{padding-left:28px}.leetcode .topics{margin-left:20px}.leetcode .count{font-size:10px;color:#666}.leetcode .easy.gauge .gauge-arc,.leetcode .fundamental .dot{color:#2cbb5d}.leetcode .intermediate .dot,.leetcode .medium.gauge .gauge-arc{color:#ffc01e}.leetcode .hard.gauge .gauge-arc{color:#ef4743}.leetcode .all.gauge .gauge-arc{color:#ffa116}.leetcode{align-items:flex-start}.leetcode .infos{margin-bottom:3px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.93m added, 2.75m removed
+                                    487k added, 231k removed
                                 </div>
                             </section>
                             <section>
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.89mb of code in 1562 edited files across 624 commits over last 28 days</small>
+                <small>estimation from 4mb of code in 1690 edited files across 645 commits over last 28 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.1734848090052" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="311.1734848090052" y="0" width="69.080410651936" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="380.2538954609411" y="0" width="45.598832664547395" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="425.85272812548857" y="0" width="16.839856167596018" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="442.69258429308456" y="0" width="5.675126374485382" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="448.36771066757" y="0" width="5.108968679972901" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="453.4766793475429" y="0" width="4.986815362968367" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="458.46349471051127" y="0" width="1.5365052894887696" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="316.53900305606027" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="316.53900305606027" y="0" width="66.32580108458814" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="382.8648041406484" y="0" width="43.7805606025799" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="426.6453647432283" y="0" width="16.16836003035176" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="442.8137247735801" y="0" width="6.01782817840709" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="448.83155295198713" y="0" width="4.905246468823312" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="453.7367994208105" y="0" width="4.78796406518667" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="458.52476348599714" y="0" width="1.475236514002882" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2755,6 +2755,358 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 168 commits in
+                                        <span class="repo">abdelaziz-mahdy/packages</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">binary-search-captions</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a3d1f13</div>
+                                        <div class="message">[flutter_plugin_android_lifecycle] use flutter.compileSdkVersion to see what breaks (#8700)
+
+Related to flutter/flutter/issues/149836
+
+The entire repo uses compile sdk 34 so this a change to 35 but tooling changes are supposed to be safe. Aditionally most projects uses flutter.targetSdkVersion which means that they are using tools at api 34 but targeting 35 which is not ok. 
+
+This pr is a canary to see if any unexpected issues pop up and to validate that we agree on if a version/changelog change is required. The second part will update this for all plugins.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#49e9928</div>
+                                        <div class="message">[webview_flutter_wkwebview] Fixes crash where the native `AuthenticationChallengeResponse` could not be found for auth  requests (#8707)
+
+This changes the return type of the auth callback method to a `List` instead of an `AuthenticationChallengeResponse`. `@ProxyApi` doesn't support tuples or data classes, so this was the simplest to switch to.
+
+Fixes https://github.com/flutter/flutter/issues/162437</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9744c9d</div>
+                                        <div class="message">Roll Flutter from 16592066d70b to 2e570ca393c8 (75 revisions) (#8731)
+
+Roll Flutter from 16592066d70b to 2e570ca393c8 (75 revisions)
+
+https://github.com/flutter/flutter/compare/16592066d70b...2e570ca393c8
+
+2025-02-27 engine-flutter-autoroll@skia.org Roll Skia from ac08df9c8d82 to e5a33102401c (1 revision) (flutter/flutter#164288)
+2025-02-27 engine-flutter-autoroll@skia.org Roll Skia from 6018dff0233a to ac08df9c8d82 (1 revision) (flutter/flutter#164275)
+2025-02-27 engine-flutter-autoroll@skia.org Roll Dart SDK from 4a218fbffc80 to fcda71ce147b (1 revision) (flutter/flutter#164276)
+2025-02-27 engine-flutter-autoroll@skia.org Roll Skia from 0f2e106c9abc to 6018dff0233a (1 revision) (flutter/flutter#164266)
+2025-02-27 robert.ancell@canonical.com Add windowing channel support to Linux embedder (flutter/flutter#163180)
+2025-02-27 engine-flutter-autoroll@skia.org Roll Dart SDK from 7fa5901bd8a3 to 4a218fbffc80 (2 revisions) (flutter/flutter#164260)
+2025-02-27 engine-flutter-autoroll@skia.org Roll Skia from fdd97386193e to 0f2e106c9abc (4 revisions) (flutter/flutter#164259)
+2025-02-27 codefu@google.com Run more builds faster (flutter/flutter#164125)
+2025-02-27 737941+loic-sharma@users.noreply.github.com Increase customer test timeout to 60 minutes (flutter/flutter#164239)
+2025-02-27 jason-simmons@users.noreply.github.com Reland "Add a buildtools directory and move third_party/ninja to the project root in order to match the expectations of depot_tools" (flutter/flutter#164240)
+2025-02-27 liama@google.com Use the Dart isolate ownership API on the root isolate (flutter/flutter#163703)
+2025-02-26 engine-flutter-autoroll@skia.org Roll Fuchsia Linux SDK from g-2SJtblPjjaH7Egy... to 1elkOxihZuTEiTXzY... (flutter/flutter#164243)
+2025-02-26 robert.ancell@canonical.com Show Linux driver information in flutter doctor (flutter/flutter#163980)
+2025-02-26 34871572+gmackall@users.noreply.github.com Implement opacity `FlutterMutator` for hcpp (flutter/flutter#164147)
+2025-02-26 engine-flutter-autoroll@skia.org Roll Fuchsia Linux SDK from g-2SJtblPjjaH7Egy... to 1elkOxihZuTEiTXzY... (flutter/flutter#164232)
+2025-02-26 engine-flutter-autoroll@skia.org Roll Skia from 47b84f354604 to fdd97386193e (8 revisions) (flutter/flutter#164221)
+2025-02-26 jonahwilliams@google.com [Impeller] Reland: move AHB check into Flutter main, don't disable ImageReader on 29. (flutter/flutter#164201)
+2025-02-26 engine-flutter-autoroll@skia.org Roll Dart SDK from 80865748abe0 to 7fa5901bd8a3 (3 revisions) (flutter/flutter#164226)
+2025-02-26 68449066+zijiehe-google-com@users.noreply.github.com Update fuchsia_test_scripts_version to the latest version (flutter/flutter#164123)
+2025-02-26 brackenavaron@gmail.com Guard against zero item extent for carousel (flutter/flutter#163310)
+2025-02-26 jonahwilliams@google.com [Impeller] work around for crashy Nexus 5 Driver. (flutter/flutter#164040)
+2025-02-26 98614782+auto-submit[bot]@users.noreply.github.com Reverts "Add a buildtools directory and move third_party/ninja to the project root in order to match the expectations of depot_tools (#163890)" (flutter/flutter#164209)
+2025-02-26 48155875+Michae1Weiss@users.noreply.github.com Add localization for `Back` and `Cancel` buttons in CupertinoNavigationBar (flutter/flutter#162581)
+2025-02-26 30870216+gaaclarke@users.noreply.github.com Added compilation failure if a max ubo size is exceeded (flutter/flutter#164038)
+2025-02-26 engine-flutter-autoroll@skia.org Roll Skia from 5336e20498d9 to 47b84f354604 (2 revisions) (flutter/flutter#164188)
+2025-02-26 jason-simmons@users.noreply.github.com Add a buildtools directory and move third_party/ninja to the project root in order to match the expectations of depot_tools (flutter/flutter#163890)
+2025-02-26 engine-flutter-autoroll@skia.org Roll Skia from 3ce6f25dc13e to 5336e20498d9 (9 revisions) (flutter/flutter#164174)
+2025-02-26 engine-flutter-autoroll@skia.org Roll Dart SDK from b8292dfeaa67 to 80865748abe0 (9 revisions) (flutter/flutter#164168)
+2025-02-26 dkwingsmt@users.noreply.github.com [Engine] Remove dead code for RoundedSuperellipse (flutter/flutter#164163)
+2025-02-26 jonahwilliams@google.com [Impeller] detect mediatek soc and fall back to GLES. (flutter/flutter#164126)
+2025-02-26 jonahwilliams@google.com [Impeller] make DLOG into LOG for startup errors. (flutter/flutter#164110)
+2025-02-26 15619084+vashworth@users.noreply.github.com Intercept error when iOS 18.4 crashes with JIT mode and give guided error (flutter/flutter#164072)
+2025-02-26 98614782+auto-submit[bot]@users.noreply.github.com Reverts "[Impeller] move AHB check to Vulkan, use Vulkan surface on 29. (#164109)" (flutter/flutter#164166)
+2025-02-26 zanderso@users.noreply.github.com Run new gallery transition perf benchmark on Galaxy S24 (flutter/flutter#163665)
+2025-02-26 jonahwilliams@google.com [Impeller] move AHB check to Vulkan, use Vulkan surface on 29. (flutter/flutter#164109)
+2025-02-26 chris@bracken.jp [iOS] Add platform view to integration_test example (flutter/flutter#164144)
+2025-02-26 dominik@honnef.co Fix minor issues in documentation of WidgetsApp (flutter/flutter#163942)
+2025-02-26 louisehsu@google.com Fix extra numbers showing up when enabling VoiceControl (flutter/flutter#163593)
+2025-02-26 cloud@pathconnected.net Set SliverResizingHeader's maxScrollObstructionExtent to minExtent (flutter/flutter#162955)
+2025-02-26 engine-flutter-autoroll@skia.org Roll Dart SDK from aea6fff33f06 to b8292dfeaa67 (1 revision) (flutter/flutter#163973)
+2025-02-26 flar@google.com [DisplayList] Delete all legacy Skia-oriented method overloads in DlCanvas (flutter/flutter#164054)
+2025-02-25 polinach@google.com Clean up leak tracker instrumentation tech debt. (flutter/flutter#164070)
+2025-02-25 magder@google.com Revert "Marks Linux_pixel_7pro service_extensions_test to be flaky" (flutter/flutter#163882)
+2025-02-25 magder@google.com Check if simctl is installed before trying to list devices or runtimes (flutter/flutter#163895)
+2025-02-25 magder@google.com Update dragDevices doc to include default PointerDeviceKind.trackpad (flutter/flutter#163898)
+2025-02-25 reidbaker@google.com Update multiple flutters benchmark test to latest gradle and agp and gradle defined dependencies  (flutter/flutter#164029)
+...</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01d3d5c</div>
+                                        <div class="message">Manual roll Flutter from 043b71954ce7 to 16592066d70b (19 revisions) (#8728)
+
+Manual roll requested by stuartmorgan@google.com
+
+https://github.com/flutter/flutter/compare/043b71954ce7...16592066d70b
+
+2025-02-24 engine-flutter-autoroll@skia.org Roll Skia from 3dfb3fee52e1 to 28017200173a (2 revisions) (flutter/flutter#163981)
+2025-02-24 51940183+Sameri11@users.noreply.github.com Add integration test for Gradle-initiated android builds with flavors (flutter/flutter#163737)
+2025-02-23 engine-flutter-autoroll@skia.org Roll Skia from 72f949950adb to 3dfb3fee52e1 (1 revision) (flutter/flutter#163959)
+2025-02-23 engine-flutter-autoroll@skia.org Roll Skia from 4bee660601de to 72f949950adb (1 revision) (flutter/flutter#163948)
+2025-02-22 engine-flutter-autoroll@skia.org Roll Skia from cca9328df6ca to 4bee660601de (1 revision) (flutter/flutter#163927)
+2025-02-22 engine-flutter-autoroll@skia.org Roll Dart SDK from bad289580d9b to aea6fff33f06 (3 revisions) (flutter/flutter#163912)
+2025-02-22 engine-flutter-autoroll@skia.org Roll Skia from 1d884bab8593 to cca9328df6ca (12 revisions) (flutter/flutter#163910)
+2025-02-22 68449066+zijiehe-google-com@users.noreply.github.com [fuchsia] include more tests in the fuchsia builders (flutter/flutter#163800)
+2025-02-21 dkwingsmt@users.noreply.github.com [Engine] Add RoundSuperellipse to drawing OP (flutter/flutter#160883)
+2025-02-21 34871572+gmackall@users.noreply.github.com [remake] Restore old back handling for FlutterFragmentActivity (flutter/flutter#161545)
+2025-02-21 magder@google.com Revert "Marks Mac_benchmark basic_material_app_macos__compile to be flaky" (flutter/flutter#163878)
+2025-02-21 magder@google.com Revert "Marks Mac_benchmark flutter_view_macos__start_up to be flaky" (flutter/flutter#163880)
+2025-02-21 engine-flutter-autoroll@skia.org Roll Dart SDK from c5e582f15b6c to bad289580d9b (1 revision) (flutter/flutter#163885)
+2025-02-21 magder@google.com Revert "Marks Windows_mokey native_assets_android to be flaky" (flutter/flutter#163881)
+2025-02-21 magder@google.com Mark platform_views_hcpp_scroll_perf__timeline_summary out of bringup (flutter/flutter#163883)
+2025-02-21 engine-flutter-autoroll@skia.org Roll Skia from 6da10829d017 to 1d884bab8593 (42 revisions) (flutter/flutter#163789)
+2025-02-21 matanlurey@users.noreply.github.com Enable `linux_android_emulator_tests` on presubmit. (flutter/flutter#163879)
+2025-02-21 magder@google.com Update gradle memory properties in example and test projects (flutter/flutter#163798)
+2025-02-21 jmccandless@google.com Secure paste milestone 2 (flutter/flutter#159013)
+
+If this roll has caused a breakage, revert this CL and stop the roller
+using the controls here:
+https://autoroll.skia.org/r/flutter-packages
+Please CC stuartmorgan@google.com on the revert to ensure that a human
+is aware of the problem.
+
+To file a bug in Packages: https://github.com/flutter/flutter/issues/new/choose
+
+To report a problem with the AutoRoller itself, please file a bug:
+https://issues.skia.org/issues/new?component=1389291&amp;template=1850622
+
+Documentation for the AutoRoller is here:
+https://skia.googlesource.com/buildbot/+doc/main/autoroll/README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5e8daa</div>
+                                        <div class="message">Manual roll Flutter from 911aa7547ed7 to 043b71954ce7 (#8693)
+
+https://github.com/flutter/packages/pull/8692 with fixes for indirect effects of `--explicit-package-dependencies`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a876ab3</div>
+                                        <div class="message">Dependabot to update major and minor versions of test dependencies, ignore patch (#8712)
+
+https://github.com/flutter/packages/pull/8710#issuecomment-2683188854
+
+Default to dependabot to ignore only patch versions for test dependencies and com.android.tools.build:gradle, and update major and minor. We can revert for any that get noisy.
+
+The minor/patch ignore has been around awhile: https://github.com/flutter/packages/pull/2832/files#diff-dd4fbda47e51f1e35defb9275a9cd9c212ecde0b870cba89ddaaae65c5f3cd28R120-R121</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08f883b</div>
+                                        <div class="message">[local_auth] Update to use flutter.targetSdkVersion (#8695)
+
+part of flutter/flutter/issues/149836
+
+After this pr `find . -type f -name "build.gradle" | xargs grep -e "targetSdk" | tr -d '=' | tr -s ' ' | grep -v flutter\.targetSdkVersion` will return no results.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35b816f</div>
+                                        <div class="message">[go_router_builder]: Handle invaild params (#8405)
+
+Fixed handling of invalid parameters
+
+Fix: https://github.com/flutter/flutter/issues/160894#issuecomment-2568631138</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#576f42a</div>
+                                        <div class="message">[pigeon] Timestamp test steps in CI (#8716)
+
+Pigeon's tests are taking a substantial amount of CI time, so it would be useful to be able to audit how long each step takes so we have more information if we need to shorten or shard these tests.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b13fb56</div>
+                                        <div class="message">[camera_android_camerax] Fix 90°-off preview rotation (#8629)
+
+Fixes 90°-off preview rotation without locked capture orientation. Part of https://github.com/flutter/flutter/issues/154241.
+
+The major changes in this PR:
+
+1. Ensures the preview widget is rebuilt when a new device orientation is detected by changing the `buildPreview` to return a `StatefulWidget` instead of a `Texture` that wouldn't pick up changes in device orientation.
+2. Uses [`handlesCropAndRotation`](https://api.flutter.dev/javadoc/io/flutter/view/TextureRegistry.SurfaceProducer.html#handlesCropAndRotation()) to detect if the preview is already correctly rotated or not. This API was added exactly for that purpose.
+3. Corrects the preview when needed using https://developer.android.com/media/camera/camera2/camera-preview#orientation_calculation (also subtracts rotation applied in `CameraPreview` widget).
+
+See https://github.com/flutter/flutter/issues/154241#issuecomment-2655098620 for slightly more context if desired.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d191c5</div>
+                                        <div class="message">[go_router] Secured empty matches in canPop (#8557)
+
+If current configuration matches is empty, canPop throws exceptions instead of quit properly
+
+```
+StateError: Bad state: No element
+  App                 0x1086b3e80  List.last (growable_array.dart:349)
+  App                 0x108996274  GoRouterDelegate.canPop (delegate.dart:84)
+  App                 0x1089961bc  GoRouter.canPop (router.dart:330)
+  App                 0x10899615c  BuildContextExtension|get#_shouldPop (build_context_extensions.dart:40)
+```
+
+- if there are no elements, poping page throws an error</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#804b3ca</div>
+                                        <div class="message">[tool] Update targetsdk version to 35 from 32 (#8694)
+
+part of #flutter/flutter/issues/14983
+
+This is just a test usage but it came up in my search for older versions of android being used.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d28983</div>
+                                        <div class="message">[various] Bump androidx.test:core to 1.4.0 (#8710)
+
+This is pulled out of https://github.com/flutter/packages/pull/8693 to land on its own while the other issues with that PR are investigated, since it's a useful change regardless.
+
+This updates all packages in the repo to have `androidx.test:core` 1.4.0 if it's not already higher. This fixes a latent problem where older versions of `androidx.test.core` aren't compatible with targeting the current SDK, because it has activities that are not annotated as exported. This issue is currently being masked by the dependency on `integration_test`, which forced a higher version of that package, but `integration_test` will stop exporting that dependency onto the app as of recent master, dropping all the packages here back to a too-old `androidx.test:core`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#180494b</div>
+                                        <div class="message">[camera] Disable flaky tests (#8708)
+
+Skips the `create does not call create on the Java side` tests due to excessive flake, while the issue is investigated.
+
+https://github.com/flutter/flutter/issues/164132</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2d2f16</div>
+                                        <div class="message">[url_launcher][web] Prevent browser from navigating when followLink isn't called (#8675)
+
+When a DOM click event is received, we need to make a decision before the end of the event loop whether to allow the browser to navigate or not. At the end of the event loop, the browser will perform the navigation if we don't prevent it.
+
+The problem occurs when the `followLink` signal arrives AFTER the event loop (this can happen in semantics mode when the web engine uses a debouncer to queue events and send them to the framework after some delay). This leads to a situation where we can't make a definitive decision by the end of the event loop, so this PR does the following:
+
+1. [best case] If the `followLink` signal is received before the end of the event loop, we let the browser do the navigation for a full web link experience.
+
+2. [meh case] If no `followLink` signal is received before the end of the event loop, we PREVENT the browser from navigating. But we keep waiting for the `followLink` signal. If the signal arrives a bit later, we fallback to a programmatic navigation through the `launchUrl` API.
+
+Fixes https://github.com/flutter/flutter/issues/162927
+Fixes https://github.com/flutter/flutter/issues/162408</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5501c5e</div>
+                                        <div class="message">[various] Remove plugin-level `integration_test` dependencies (#8711)
+
+Many of our plugins have `dev_dependencies` on `integration_test` at the plugin level, for some reason. Integration tests run in the example app, not the plugin, so only the example app should need the dependency.
+
+In practice it shouldn't matter since it's a dev dependency, but it's best to be accurate about our requirements.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a918c4</div>
+                                        <div class="message">[ci] Lengthen custom tests timeout (#8715)
+
+This test has been at the edge of its time limit for a while, and is now consistently timing out. Longer term we should see if we can shorten the Pigeon test time (it accounts for about 20 minutes), but for now, increase the timeout so that it doesn't fail.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c44c228</div>
+                                        <div class="message">Manual roll Flutter from 39b4951f8f0b to 911aa7547ed7 (56 revisions) (#8687)
+
+Manual roll Flutter from 39b4951f8f0b to 911aa7547ed7 (56 revisions)
+
+Manual roll requested by stuartmorgan@google.com
+
+https://github.com/flutter/flutter/compare/39b4951f8f0b...911aa7547ed7
+
+2025-02-21 bdero@google.com Remove legacy scenec stuff from flutter_tool (flutter/flutter#163569)
+2025-02-21 68449066+zijiehe-google-com@users.noreply.github.com [fuchsia] reorder tests in test_suites.yaml and update the comment (flutter/flutter#163799)
+2025-02-21 engine-flutter-autoroll@skia.org Roll Dart SDK from 7ceb3be8ed0a to c5e582f15b6c (2 revisions) (flutter/flutter#163844)
+2025-02-21 engine-flutter-autoroll@skia.org Roll Packages from a9b917273711 to 5a721da76766 (2 revisions) (flutter/flutter#163848)
+2025-02-21 engine-flutter-autoroll@skia.org Roll Dart SDK from ad642ee6f94b to 7ceb3be8ed0a (2 revisions) (flutter/flutter#163832)
+2025-02-21 matanlurey@users.noreply.github.com Update how to use VSCode with `clangd` after the monorepo merge (flutter/flutter#163671)
+2025-02-21 matanlurey@users.noreply.github.com Reland #163711 after #163780 (flutter/flutter#163812)
+2025-02-21 robert.ancell@canonical.com Fix incorrect function name in FlutterEngineRun documentation (flutter/flutter#163696)
+2025-02-21 engine-flutter-autoroll@skia.org Roll Dart SDK from 557cbf2c7da6 to ad642ee6f94b (5 revisions) (flutter/flutter#163794)
+2025-02-21 1961493+harryterkelsen@users.noreply.github.com [canvaskit] Use `visualViewport.scale` to determine device pixel ratio. (flutter/flutter#163688)
+2025-02-21 flar@google.com [DisplayList] Migrate rendering tests and benchmarks to DL geometry (flutter/flutter#163766)
+2025-02-21 matanlurey@users.noreply.github.com Make `releaseMode` explicit, inform `determineDevDependencies` entirely on the flag (flutter/flutter#163780)
+2025-02-21 matanlurey@users.noreply.github.com Ensure `exclude_dev_dependencies_test` runs if `flutter_tools` changes. (flutter/flutter#163768)
+2025-02-21 nabilamevia2003@gmail.com WebKit should respect TextCapitalization.words (flutter/flutter#161027)
+2025-02-21 victorsanniay@gmail.com CupertinoSliverNavigationBar.search fidelity updates (flutter/flutter#163089)
+2025-02-21 65627237+lucas-goldner@users.noreply.github.com feat: Add selectionColor property to selectable text (flutter/flutter#162177)
+2025-02-20 matanlurey@users.noreply.github.com Restore `linux_android_emulator_tests` to CI. (flutter/flutter#163747)
+2025-02-20 yjbanov@google.com introduce system color palette (flutter/flutter#163335)
+2025-02-20 kevmoo@users.noreply.github.com [web] DRY up access to headers required for multi-threaded WebAssembly (flutter/flutter#163555)
+2025-02-20 stanleycocoa@gmail.com fix(CupertinoDatePicker): font is inconsistent (flutter/flutter#162932)
+2025-02-20 reidbaker@google.com Create Android-API-And-Related-Versions.md (flutter/flutter#163556)
+2025-02-20 98614782+auto-submit[bot]@users.noreply.github.com Reverts "Avoid implicitly setting `determineDevDependencies: true` (it's not a safe operation) (#163711)" (flutter/flutter#163762)
+2025-02-20 56849473+mariamhas@users.noreply.github.com Revert "Create g3_bug.yml" (flutter/flutter#163757)
+2025-02-20 98614782+auto-submit[bot]@users.noreply.github.com Reverts "Make Flutter version information accessible at runtime (#140783)" (flutter/flutter#163753)
+2025-02-20 magder@google.com Skip Xcode install on mac_mokey Android tests (flutter/flutter#163685)
+2025-02-20 engine-flutter-autoroll@skia.org Roll Dart SDK from 2cecb16348e4 to 557cbf2c7da6 (3 revisions) (flutter/flutter#163705)
+2025-02-20 matanlurey@users.noreply.github.com Add `FlutterVersion.engineCommitDate`, helps signal engine artifact SHA issues (flutter/flutter#163652)
+2025-02-20 matanlurey@users.noreply.github.com Avoid implicitly setting `determineDevDependencies: true` (it's not a safe operation) (flutter/flutter#163711)
+2025-02-20 matanlurey@users.noreply.github.com It is now safe to call `getBuildMode().release` (flutter/flutter#163712)
+2025-02-20 jonahwilliams@google.com [iOS] remove Skia interfaces from iOS platform code. (flutter/flutter#163505)
+2025-02-20 ueman@users.noreply.github.com Make Flutter version information accessible at runtime (flutter/flutter#140783)
+2025-02-20 matej.knopp@gmail.com [windows] Implement merged UI and platform thread (flutter/flutter#162935)
+2025-02-20 31642846+dbspoudel@users.noreply.github.com `CircularProgressIndicator` throws null exception (flutter/flutter#163356)
+2025-02-20 ybz975218925@gmail.com Fix the issue where DropdownMenu does not gain focus when tapped. (flutter/flutter#162874)
+2025-02-20 codefu@google.com Check for tracked engine.version before overriding (flutter/flutter#163672)
+2025-02-20 ybz975218925@gmail.com showDialogs adds a `requestFocus` parameter. (flutter/flutter#162928)
+2025-02-20 polinach@google.com Create helper method to dispatch object creation and disposal. (flutter/flutter#163637)
+2025-02-20 15619084+vashworth@users.noreply.github.com Redistribute iOS TESTOWNERS (flutter/flutter#163653)
+2025-02-20 31859944+LongCatIsLooong@users.noreply.github.com enclosingElement -&gt; enclosingElement3 (flutter/flutter#163681)
+2025-02-19 bkonyi@google.com [ Widget Preview ] Move `preview_detector_test.dart` from `general.shard` to `commands.shard` (flutter/flutter#163619)
+2025-02-19 jonahwilliams@google.com [iOS] always post new task during gesture dispatch. (flutter/flutter#163646)
+2025-02-19 biggs0125@gmail.com Allow flutter tools to detach a running Chrome session (flutter/flutter#163349)
+2025-02-19 flar@google.com Reland "[Impeller] add support for rational bezier conics to Path (#63282)" (flutter/flutter#163645)
+2025-02-19 yjbanov@google.com [web:a11y] wheel events switch to pointer mode (flutter/flutter#163582)
+...</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4341341</div>
+                                        <div class="message">[google_maps_flutter] Improve README and API doc comments (#8560)
+
+There are some inconsistencies and anachronisms in the various READMEs and in the API docs. This PR attempts to address them.
+
+- Makes sure to link to platform-specific READMEs from the main README file.
+- Makes the READMEs more consistent (e.g. only leaving the bare minimum quick start for the main README, and leaving all platform-specific notes to platform READMEs).
+- Using the more correct “Not supported on all platforms” instead of “Supported on Android only” for functionality that works on both Android and the Web. Intentionally staying vague in API docs in order to make later maintenance easier. (https://github.com/flutter/flutter/issues/161948#issuecomment-2605429688)
+- Remove a doc comment from before null safety about asserting non-null.
+- Format the platform sections in the main README so that they’re proper lists, and so that all of them end with a link to the appropriate platform-specific README.
+
+Issues:
+
+- Fixes flutter/flutter#161954
+- Related: flutter/flutter#161950, flutter/flutter#161948</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5498d4d</div>
+                                        <div class="message">Redistribute iOS plugin owners (#8664)
+
+Redistributed CODEOWNERS to take @jmagman out of the mix and add @vashworth.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#8347 [video_player] Optimize caption retrieval with binary search in VideoPlayerController</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by abdelaziz-mahdy in <span class="repo">flutter/packages</span></div>
+                                    <div class="comment">
+                                        <i>From triage: @abdelaziz-mahdy Are you still planning to update this PR based on the review comments?</i>
+                                        yes, I was busy, will update it and let you know
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -2809,47 +3161,6 @@ Also thank you and take your time I don't want the feature currently but I liked
                                     <div class="commit">
                                         <div class="sha">#c6cb58f</div>
                                         <div class="message">added default fallback incase target-platform is not set, and upgraded gradle versions</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#355 Enhance README and CMakeLists for OpenCV module customization</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by abdelaziz-mahdy in <span class="repo">rainyl/opencv_dart</span></div>
-                                    <div class="comment">I played around with ai/cursor to create the yaml parser and integrate it, so let me know if it makes sense now or not, and i cant see the logs when building with cmake, so i really dont know if its working or not (also i think android examples needs to be updated for gradle)</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">abdelaziz-mahdy/opencv_dart</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">test-yaml-pass</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ffe2c5e</div>
-                                        <div class="message">Refactor OpenCV module customization to use pubspec.yaml
-
-- Updated README files for both `opencv_core` and `opencv_dart` to reflect the new method of customizing OpenCV modules via the `pubspec.yaml` file instead of `opencv_config.cmake`.
-- Introduced a Dart script to generate `dartcv_modules.cmake` based on the specified modules in `pubspec.yaml`.
-- Modified `CMakeLists.txt` in both packages to include the generated `dartcv_modules.cmake`, ensuring proper module configuration during the build process.</div>
                                     </div>
                                 </div>
                             </section>
@@ -3025,7 +3336,7 @@ Also thank you and take your time I don't want the feature currently but I liked
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 May 2025, 02:28:03  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 May 2025, 03:35:58  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

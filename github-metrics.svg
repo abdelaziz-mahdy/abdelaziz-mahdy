@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.02m added, 3.04m removed
+                                    3.91m added, 3.04m removed
                                 </div>
                             </section>
                             <section>
@@ -389,20 +389,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.16mb of code in 1182 edited files across 438 commits over last 20 days</small>
+                <small>estimation from 2.16mb of code in 1178 edited files across 446 commits over last 20 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="254.49265599726027" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="254.49265599726027" y="0" width="157.78167105603913" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="412.27432705329943" y="0" width="25.628284069054427" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="437.90261112235385" y="0" width="16.851822238197872" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.75443336055173" y="0" width="3.8362030536446885" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="458.5906364141964" y="0" width="0.789634193801291" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="459.3802706079977" y="0" width="0.47716559279171167" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.85743620078944" y="0" width="0.14256379921062054" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.03571600580705" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="249.03571600580705" y="0" width="164.75128146909682" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="413.7869974749039" y="0" width="24.72601674682299" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="438.51301422172685" y="0" width="16.386319070324273" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.89933329205115" y="0" width="3.7302344142396153" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="458.62956770629074" y="0" width="0.7678218809558212" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="459.3973895872466" y="0" width="0.4639846980549191" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.8613742853015" y="0" width="0.13862571469853655" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2694,7 +2694,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        123
+                                        125
                                     </div>
                                 </div>
                             </section>
@@ -3029,7 +3029,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2025, 19:08:35  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jul 2025, 20:11:36  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

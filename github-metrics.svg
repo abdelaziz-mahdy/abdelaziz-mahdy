@@ -327,20 +327,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.02mb of code in 1050 edited files across 452 commits over last 29 days</small>
+                <small>estimation from 3.01mb of code in 1046 edited files across 453 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.3737038161148" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="432.3737038161148" y="0" width="13.169893625650882" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="445.5435974417657" y="0" width="11.06791789369492" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="456.61151533546064" y="0" width="1.3932114006761074" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.0047267361367" y="0" width="1.2347299352967607" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.23945667143346" y="0" width="0.4530138183660951" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="459.6924704897996" y="0" width="0.244430408243807" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="459.93690089804335" y="0" width="0.06309910195659169" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.085452606187" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="434.085452606187" y="0" width="11.632517811805265" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="445.71797041799226" y="0" width="11.146316568237435" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="456.8642869862297" y="0" width="1.4030800975908857" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.26736708382055" y="0" width="1.2434760419515976" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.51084312577217" y="0" width="0.24616181068175935" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="459.75700493645394" y="0" width="0.22568351253756497" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="459.9826884489915" y="0" width="0.017311551008494228" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -375,15 +375,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Swift
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Kotlin
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Swift
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2978,7 +2978,7 @@ feat: update window manager to fix windows full screen bug</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Aug 2025, 19:08:06  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Aug 2025, 20:10:39  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -44,12 +44,4 @@ I'm always eager to connect with fellow developers, discuss new technologies, an
   <img src="https://github.com/abdelaziz-mahdy/abdelaziz-mahdy/blob/main/github-metrics.svg" alt="GitHub Metrics">
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdelaziz-mahdy" alt="abdelaziz-mahdy" />
-  </a> 
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelaziz-mahdy&show_icons=true&locale=en" alt="abdelaziz-mahdy" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaziz-mahdy&" alt="abdelaziz-mahdy" /></p>

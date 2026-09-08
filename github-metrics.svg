@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    6.91m added, 3.80m removed
+                                    6.88m added, 3.79m removed
                                 </div>
                             </section>
                             <section>
@@ -389,19 +389,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.46mb of code in 902 edited files across 375 commits over last 8 days</small>
+                <small>estimation from 2.45mb of code in 885 edited files across 363 commits over last 8 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.69118786905113" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="446.69118786905113" y="0" width="10.906005309675034" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.5971931787262" y="0" width="0.9200329117464364" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="458.5172260904726" y="0" width="0.8128204044155509" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.33004649488817" y="0" width="0.6392857413869548" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="459.96933223627514" y="0" width="0.02144250146617711" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="459.99077473774133" y="0" width="0.009225262258704105" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.8938880025448" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="448.8938880025448" y="0" width="8.691456581336155" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.58534458388095" y="0" width="0.9245697297373849" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="458.5099143136183" y="0" width="0.8168285417192073" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.32674285533756" y="0" width="0.6424381536711802" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="459.9691810090087" y="0" width="0.021548237603635532" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="459.9907292466124" y="0" width="0.009270753387610634" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2928,9 +2928,9 @@ jrl save: the renamed service is findable under its new name
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.854671280276817 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.853224610822831 329"/>
                                     <text x="60" y="50" dominant-baseline="central">72</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4046</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4047</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -2957,7 +2957,7 @@ jrl save: the renamed service is findable under its new name
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/972</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/973</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -3605,7 +3605,7 @@ jrl save: the renamed service is findable under its new name
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Sept 2026, 07:05:23  with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 8 Sept 2026, 12:44:54  with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

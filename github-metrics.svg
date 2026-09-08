@@ -389,7 +389,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.46mb of code in 902 edited files across 375 commits over last 7 days</small>
+                <small>estimation from 2.46mb of code in 902 edited files across 375 commits over last 8 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -3605,7 +3605,7 @@ jrl save: the renamed service is findable under its new name
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Sept 2026, 01:03:12  with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 8 Sept 2026, 07:05:23  with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

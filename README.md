@@ -49,6 +49,7 @@ If I do something twice, I automate it. My CI ships my packages, and my AI agent
 |---|---|
 | [dicom_rs](https://github.com/abdelaziz-mahdy/dicom_rs) | DICOM viewer and Flutter package with a Rust backend. [Open it in your browser](https://abdelaziz-mahdy.github.io/dicom_rs/) |
 | [rewind](https://github.com/abdelaziz-mahdy/rewind) | Instant replay and automatic game clips for macOS and Windows, built on libobs |
+| [backend-benchmark](https://github.com/abdelaziz-mahdy/backend-benchmark) | Benchmarks backend frameworks in Python, Dart, JavaScript, C#, Go, Rust and Java under the same load. [View the dashboard](https://abdelaziz-mahdy.github.io/backend-benchmark/) |
 | [executorch_flutter](https://github.com/abdelaziz-mahdy/executorch_flutter) | On-device ML demos. [Open it in your browser](https://abdelaziz-mahdy.github.io/executorch_flutter/) |
 | [path_finding](https://github.com/abdelaziz-mahdy/path_finding) | A* and Dijkstra visualizer. [Open it in your browser](https://abdelaziz-mahdy.github.io/path_finding/) |
 
